@@ -14,13 +14,13 @@ As you gain levels in this class, you can expend additional hit dice to increase
 
 You prepare a number of barbarian spells that are available to you to cast, choosing from the sorcerer spell list. When you do so, choose a number of barbarian spells equal to your Constitution modifier + one third of your barabarian level, rounded down (minimum of one spell). The spell's level must not be higher than the maximum number of hit dice you can expend to cast a spell.
 
-For example, if you are a 8th level path of wonder barbarian, you can expend up to 2 hit dice to cast a spell. If you have a constituation of 16, your list of prepared spells can include up to four spells of 1st-level or 2nd-level in any combination. Casting the spell doesn't remove it from your list of prepared spells.
+For example, if you are a 8th level path of wonder barbarian, you can expend up to 2 hit dice to cast a spell. If you have a constituation of 16, your list of prepared spells can include up to spells spells of 1st-level or 2nd-level in any combination. Casting the spell doesn't remove it from your list of prepared spells.
 
 You can change your list of prepared spells when you finish a long rest.
 
 ### Spellcasting Ability
 
-Constitution is your spellcasting ability for your barbarian spells, as your is less the result of casting a spell and more a wonderous manifestation of your body's needs and wants. You use Constitution whenever a barbarian spell refers to your spellcasting ability. In addition, you use your Consitution modifier when setting the saving throw DC for a barbarian spell you cast and when making an attack roll with one.
+Constitution is your spellcasting ability for your barbarian spells, as your spells are less the result of casting a spell and more a wonderous manifestation of your body's needs and wants. You use Constitution whenever a barbarian spell refers to your spellcasting ability. In addition, you use your Consitution modifier when setting the saving throw DC for a barbarian spell you cast and when making an attack roll with one.
 
 **Spell Save DC** = 8 + your proficiency bonus + your Constitution modifier
 
@@ -38,7 +38,7 @@ Your own body can count as a spellcasting focus for your barbarian spells.
 
 *3rd-Level Path of Wonder Feature*
 
-When you cast a spell as an action while you are raging, you may make one attack as a bonus action.
+When you cast a barbarian spell as an action while you are raging, you may make one attack as a bonus action.
 
 ## Unnatural Recovery
 
@@ -59,8 +59,6 @@ Additionally, being within 5 feet of a creature doesn't impose disadvantage on y
 *10th-Level Path of Wonder Feature*
 
 You automatically succeed on saving throws against area of effect spells that you cast.
-
-Additionally, you now have resistance against force damage.
 
 ## Spell Sense
 
