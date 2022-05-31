@@ -22,7 +22,7 @@ Additionally, you learn the *Chill Touch* cantrip and it does not count against 
 
 *1st-Level Vampiric Bloodline Feature*
 
-Your vampiric curse compels you to feed on the life force of the living. When you a complete a long rest and have not dealt necrotic damage to a living thing in 72 hours or more, you must make a Wisdom saving throw. The DC equals your Charisma bonus + your Proficiency Bonus + half of your Sorcerer level. On a failed save, you must move towards the closest living creature and deal necrotic damage to it. Your compulsion wanes once you deal this damage. 
+Your vampiric curse compels you to feed on the life force of the living. When you a complete a long rest and have not dealt necrotic damage to a living creature other than yourself in 72 hours or more, you must make a Wisdom saving throw against your spell save DC. On a failed save, you must move towards the closest living creature and deal necrotic damage to it. Your compulsion wanes once you deal this damage. 
 
 Any time you deal necrotic damage to a living creature, choose one of the damage dice and heal for that amount. You cannot heal for more than target’s total hit points.
 
