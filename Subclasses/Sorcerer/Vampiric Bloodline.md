@@ -60,6 +60,6 @@ Once you use this feature, you cannot use it against until you complete a long r
 
 *18th-Level Vampiric Bloodline Feature*
 
-When you drop to 0 hit points, you drop to 1 hit point instead and turn into a cloud of mist. While in this form you are immune to all damage but cannot take any action other than the dash action. You return to your true form after being healed above 1 hit point. If you remain at 1 hit point while in your mist for one hour, you fall to 0 hit points.
+When you drop to 0 hit points, you drop to 1 hit point instead and turn into a cloud of mist. While in this form you are immune to all damage and conditions, but cannot take any action other than the dash action. You return to your true form after being healed above 1 hit point. If you remain at 1 hit point while in your mist for one hour, you fall to 0 hit points.
 
-Once you enter your mist form, you cannot enter it again until you complete a short or long rest.
+Once you enter your mist form, you cannot enter it again until you complete a long rest.
