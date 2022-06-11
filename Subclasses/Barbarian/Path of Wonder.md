@@ -8,7 +8,7 @@ Your intrinsic bond with the weave has given you the ability to exchange a fract
 
 ### Preparing and Casting Spells
 
-You expend your own vitality to cast your barbarian spells. You can spend one of your barbarian hit dice to create a spell slot of 1st level. When you do so, roll the hit die, then take force damage and gain temporary hit points equal to the value rolled. This damage ignores temporary hit points. You can cast spells and concentrate on them while you are raging.
+You expend your own vitality to cast your barbarian spells. When you want to cast a spell, you can spend one of your barbarian hit dice to create a spell slot of 1st level. When you do so, roll the hit die, then take force damage and gain temporary hit points equal to the value rolled. This damage ignores temporary hit points. You can cast spells and concentrate on them while you are raging.
 
 As you gain levels in this class, you can expend additional barbarian hit dice to increase the level of the spell slot you create by one per hit die you expend. The number of hit dice you can expend to create a spell slot increases by one when you reach levels 7, 13, and 19 in the barbarian class.
 
@@ -16,7 +16,7 @@ You prepare a number of barbarian spells that are available to you to cast, choo
 
 For example, if you are a 8th level path of wonder barbarian, you can expend up to 2 hit dice to create a spell slot. If you have a constituation of 16, your list of prepared spells can include up to 6 spells spells of 1st-level or 2nd-level in any combination. Casting the spell doesn't remove it from your list of prepared spells.
 
-When you finish a long rest, you lose any spell slots you have created and you can change your list of prepared spells.
+You can change your list of prepared spells, when you finish a long rest.
 
 ### Spellcasting Ability
 
@@ -58,7 +58,7 @@ Additionally, being within 5 feet of a creature doesn't impose disadvantage on y
 
 *10th-Level Path of Wonder Feature*
 
-When you hit a creature when a melee weapon attack, you can deal additional force damage to the target equal to the number of temporary hit points you currently have from your Wondrous Vitality feature. When you use this feature you lose your temporary hit points.
+When you hit a creature with a melee weapon attack, you can deal additional force damage to the target equal to the number of temporary hit points you currently have from your Wondrous Vitality feature. When you use this feature you lose your temporary hit points.
 
 ## Spell Sense
 

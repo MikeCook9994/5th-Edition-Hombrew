@@ -61,7 +61,7 @@ Intelligence is your spellcasting ability for your wizard spells, since you lear
 
 *3rd-level Arcane Martialist Feature*
 
-Instead of keeping your arsenal on your person, you can stow and retrieve a small number of weapons and ammunition from a extra-dimensional space known as your arcane armory. You can connect a weapon or a piece of ammunition to your arcane armory over the course of one hour as if you were attuning to it (the same hour can both attune you to an item and connect it with your arcane armory).
+Instead of keeping your arms on your person, you can stow and retrieve a small number of weapons and ammunition from a extra-dimensional space known as your arcane armory. You can connect a weapon or a piece of ammunition to your arcane armory over the course of one hour as if you were attuning to it (the same hour can both attune you to an item and connect it with your arcane armory).
 
 You can retreive or stow a weapon and up to one piece of ammunition from your arcane armory as part of your action. While you hold an item connected to your arcane armory, it counts as a spellcasting focus for you. If an item connected to your arcane armory is on the same plane of existence as you, you can use a bonus action to immediately and safely teleport the item to your hand.
 
@@ -81,7 +81,7 @@ When a creature fails a saving throw from a spell you cast, you have advantage o
 
 You can use your bonus action to teleport yourself up to 60 feet to weapon connected to your arcane armory that is on the same plane of existance as you. Once you use this feature, you cannot use it again until you complete a short rest or by expending 2 spell points.
 
-## Steeled Adaption
+## Steeled Adaptation
 
 *15th-level Arcane Martialist Feature*
 
