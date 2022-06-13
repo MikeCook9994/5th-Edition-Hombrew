@@ -48,16 +48,10 @@ When you reach 11th level, you can expend an additional 2 ki points to target a 
 
 *Nth level Way of the Flowing River Feature*
 
-You can expend 2 tainted ki and 2 purified 
+You can expend 2 tainted ki and 2 purified ki to gain 1 ki point.
 
 ## The Flowing River
 
 *Nth level Way of the Flowing River Feature*
 
 When you use a ki manipulation as an action, you can move without provoking opportunity attacks.
-
-## Opposing Current
-
-*Nth level Way of the Flowing River Feature*
-
-When a creature within 5 feet of you attacks another creature, you can use your reaction to make an attack against the attacking creature. If this attack hits, the attacking creature’s attack misses.

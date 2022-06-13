@@ -4,7 +4,7 @@ At your birth a goodly deity elected you pluck you from the swatch and reclaim y
 
 Gold to olive skin tones. May feature a unicorn horn. No tail. Standard eye colors. Varied hair colors. Live for up to a century. Typically stand 5’6-6’4” in height and weigh 140-300 pounds.
 
-## Statistics
+## Nizown Traits
 
 ### Creature Type
 
@@ -17,8 +17,6 @@ Your size is Medium.
 ### Speed
 
 Your walking speed is 30 feet.
-
-## Features
 
 ### Clestial Resistance 
 
