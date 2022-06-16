@@ -29,9 +29,11 @@ Playing with a two-headed giant
 
 ```
 
-# Optional Rules for Large Creatures
+# Optional Rules for Large Player Characters
 
-## Weapons Properties
+## Weapons
+
+### Weapon Properties
 
 Some of the standard weapon properties behave differently for large player character races:
 
@@ -43,4 +45,12 @@ There is also an additional weapon property:
 
 **Giant.** Medium sized creatures have disadvantage on attack rolls made with Giant weapons. Small and Tiny creatures cannot make attacks with giant weapons. A Large sized creature uses the Two-Handed, Light, and Versatile properties as if they were a Medium creature when attacking with a Giant weapon.
 
-# Large Creature Weapons
+### Giant Weapons
+
+The tables below outlines variations of the standard 5e weapons that feature the Giant property. Weapon cost is 
+
+#### Simple Melee Weapons
+
+| Weapon Name | Cost | Damage | Weight | Properties |
+|---|---|---|---|---|
+| Club | 1gp | 
