@@ -10,7 +10,7 @@ Your intrinsic bond with the weave has given you the ability to exchange a fract
 
 You expend your own vitality to cast your barbarian spells. When you want to cast a spell, you can spend one of your barbarian hit dice to create a spell slot of 1st level. When you do so, roll the hit die, then take force damage and gain temporary hit points equal to the value rolled. This damage ignores temporary hit points. You can cast spells and concentrate on them while you are raging.
 
-As you gain levels in this class, you can expend additional barbarian hit dice to increase the level of the spell slot you create by one per hit die you expend. The number of hit dice you can expend to create a spell slot increases by one when you reach levels 7, 13, and 19 in the barbarian class.
+As you gain levels in this class, you can expend additional barbarian hit dice to increase the level of the spell slot you create by one per additional hit die you expend. The number of hit dice you can expend to create a spell slot increases by one when you reach levels 7, 13, and 19 in the barbarian class.
 
 You prepare a number of barbarian spells that are available to you to cast, choosing from the sorcerer spell list. When you do so, choose a number of barbarian spells equal to your Constitution modifier + one third of your barabarian level, rounded up (minimum of one spell). The spell's level must not be higher than the maximum spell slot level you can create.
 

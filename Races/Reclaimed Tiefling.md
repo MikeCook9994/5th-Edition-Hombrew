@@ -40,7 +40,7 @@ You gain an additional trait based on the alignment of the deity that reclaimed 
 
 #### Neutral
 
-When a creature within 60 feet of you makes an attack roll, ability check, or saving throw, you can use your reaction to make the creature roll a second time. You choose which of the two die rolls they use. Once within the next minute, when you make an attack roll, ability check, or saving throw, you can choose to replace the result of your roll with the number you did not choose for the roll that triggered this reaction. Once you use this feature, you cannot use it again until you complete a short or long rest.
+When a creature within 60 feet of you makes an attack roll, ability check, or saving throw with advantage or disadvantage, you can use your reaction to remove all sources of advantage a d disadvantage from the roll. Once you use this feature, you cannot use it again until you complete a short or long rest.
 
 #### Chaotic
 
