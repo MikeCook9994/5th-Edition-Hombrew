@@ -20,28 +20,26 @@ Your walking speed is 30 feet.
 
 ### Clestial Resistance 
 
-You have resistance to radiant and necrotic damage.
+You have resistance to radiant or necrotic damage (you choose when you select this race).
 
-### Heavenly Legacy
+### Heavenly Power
 
 You know the *Light* cantrip. Starting at 3rd level, you can cast the *Urgent Plea* spell. Starting at 7th level, you can cast the Divination spell as a ritual. Once you cast *Urgent Plea* using this feature, you can’t cast it again until you finish a long rest unless you expend a spell slot of 2nd level or higher.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for this feature. (choose when you select this race).
 
-### Divine Favor
-
-If you fail a saving throw, you can choose to succeed instead. Once you use this feature, you cannot use it again for 7 days.
-
 ### Deific Influence
 
-You gain an additional trait based on the alignment of the deity that reclaimed you or your ancestry.
+You gain an additional trait based on the alignment of the deity that reclaimed your ancestry.
 
 #### Lawful
 
+When a creature within 60 feet of you is about to make an attack roll, ability check, or saving throw, you can use your reaction to force the creature to first roll a d20. If the result of the roll is greater than 10, the creature has advantage on their next roll. If the result of the roll is less than 10, the creature has disadvantage on their next roll. If the creature rolls a 10, you choose whether they have advantage or disadvantage on the next roll. Once you use this feature, you cannot use it again until you complete a short or long rest.
+
 #### Neutral
 
-When a creature within 60 feet of you makes an attack roll, ability check, or saving throw with advantage or disadvantage, you can use your reaction to remove all sources of advantage a d disadvantage from the roll. Once you use this feature, you cannot use it again until you complete a short or long rest.
+When a creature within 60 feet of you makes an attack roll, ability check, or saving throw, you can use your reaction to prevent the roll from being affected by advantage or disadvantage. Once you use this feature, you cannot use it again until you complete a short or long rest.
 
 #### Chaotic
 
-When a creature within 60 feet of you makes an attack roll, ability check, or saving throw, you can use your reaction to make the creature roll a second time. You choose which of the two die rolls they use. Once within the next minute, when you make an attack roll, ability check, or saving throw, you can choose to replace the result of your roll with the number you did not choose for the roll that triggered this reaction. Once you use this feature, you cannot use it again until you complete a short or long rest.
+When a creature within 60 feet of you makes an attack roll, ability check, or saving throw, you can use your reaction to make the creature roll a second time. You choose which of the two die rolls they use. Once within the next minute, when you make an attack roll, ability check, or saving throw, you can choose to replace the result of your roll with the number you did not choose when you used this feature. Once you use this feature, you cannot use it again until you complete a short or long rest.
