@@ -38,12 +38,12 @@ As an action, you imbue a creature within 30 feet of you with a surge of divine 
 
 Creatures have disadvantage on spells you cast that reduce their movement speed or cause the incapacitated condition (this includes conditions that result in a creature being incapacitated, such as the unconscious condition).
 
-## Potent Spellcasting
+## Sluggish Spellcasting
 *8th-level Leisure Domain feature*
 
-You add your Wisdom modifier to the damage you deal with any cleric cantrip.
+Damaging a creature with a cleric cantrip also decreases their movement speed by 5 feet until the end of their next turn.
 
 ## Strategic Procrastination
 *17th-level Leisure Domain feature*
 
-You act when it pleases you. Each round while you are in initiative, you may choose when you take your turn so long as it is between any two turns. You take your turn at the end of a round if you still have not yet taken a turn. 
+You act when it pleases you. Each round while you are in initiative, you may choose when you take your turn so long as it is between any two turns. You take your turn at the end of a round if you still have not yet taken a turn.
