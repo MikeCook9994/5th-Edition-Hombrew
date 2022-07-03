@@ -4,7 +4,7 @@
 
 *1st-level Leisure Domain feature*
 
-You gain domain spells at cleric levels listed in the Leisure Domain Spells table. See the Divine Domain class feature for how domain spells work.
+You gain domain spells at the cleric levels listed in the Leisure Domain Spells table. See the Divine Domain class feature for how domain spells work.
 
 ### Leisure Domain Spells
 
@@ -26,12 +26,12 @@ Additionally, whenever you make a Wisdom (Insight) check against a creature that
 ## Expert Relaxation
 *1st-level Leisure Domain feature*
 
-When you complete a short rest or long rest, you and up to 5 creatures that you can see gain hit points and have their hit point maximum increased by an amount equal to your cleric level. This effect last for 8 hours or until an effected creature completes a subsequent short or long rest.
+When you complete a short rest or long rest, you and up to 5 creatures that you can see gain hit points and have their hit point maximum increased by an amount equal to your cleric level. This effect lasts for 8 hours or until an effected creature completes a subsequent short or long rest.
 
 ## Channel Divinity: Divine Delegation
 *2nd-level Leisure Domain feature*
 
-As an action, you imbue a creature within 30 feet of you with a surge of divine energy. Immediately after your turn, the target can take one action of their choice. 
+As an action, you can imbue a creature within 30 feet of you with a surge of divine energy. Immediately after your turn, the target can take one action of their choice. 
 
 ## Compelled Lethargy
 *6th-level Leisure Domain feature*
@@ -46,4 +46,4 @@ You add your Wisdom modifier to the damage you deal with any cleric cantrip.
 ## Strategic Procrastination
 *17th-level Leisure Domain feature*
 
-You act when it pleases you. Each round while you are in initiative, you may choose when you take your turn so long as it is between any two turns. You take your turn at the end of a round if you still have not yet taken a turn. 
+You act when it pleases you. Each round while you are in initiative, you may choose when you take your turn so long as it is between any two turns. You take your turn at the end of a round if you still have not yet taken a turn during that round.
