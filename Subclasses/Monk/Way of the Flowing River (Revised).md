@@ -14,10 +14,6 @@ The expendature of your ki seperates it into its component parts like a river fo
 
 you can expend your ki to manipulate the ki of your friends and foes. Your touch can purify and strengthen the flow of your allys’ ki to bolster and heal them; similarly, your attacks can diminish the flow and taint the ki of your enemies. 
 
-### Cantrips
-
-You know the Spare the Dying cantrip. Additionally, you learn the Guidance cantrip at level 7 and the Resolve cantrip at level 11.
-
 ### Preparing and using Ki Manipulation
 
 To use a ki manipulation, 
@@ -30,19 +26,11 @@ You can change your list of prepared ki manipulation when you finish a long rest
 
 The ki manipulations are presented in alphabetical order below. If a manipulation requires a level, you must be that level as a monk to learn this manipulation.
 
-#### Corrupting Strike
+#### Duality of Water
 
-Immediately after you hit a creature with an unarmed strike or with a monk weapon, you can expend 1 ki point to deal necrotic damage equal to the target equal to one roll of your martial arts die. This damage increases by one for every dammed ki point you have.
+  **Ebb.** The target creature must make a constitution saving throw. On a failed save, the target suffers necrotic damage equal to one roll of your martial arts die plus your wisdom modifier.
 
-#### Healing Touch
-
-You can expend one ki point to heal a creature for one roll of your martial arts die plus your wisdom modifier. You can expend additional ki points up to your proficiency bonus to increase this healing by an additional roll of your martial arts die per additional ki point expended.
-
-#### Defribrillating Touch (requires 7th level)
-
-When you touch a creature that has died within the last minute, you can expend 5 ki points to bring the target back to life.
-
-When you reach 11th level, you can expend an additional 2 ki points to target a creature that has been dead for up to 10 days.
+  **Flow.** The target creature heals for an amount equal to one roll of your martial arts die plus your wisdom modifier.
 
 ## Tributary
 
