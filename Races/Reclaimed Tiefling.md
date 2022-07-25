@@ -20,7 +20,7 @@ Your walking speed is 30 feet.
 
 ### Clestial Resistance 
 
-You have resistance to radiant or necrotic damage (you choose when you select this race).
+You have resistance to radiant damage.
 
 ### Heavenly Power
 
