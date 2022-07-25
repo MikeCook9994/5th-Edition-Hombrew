@@ -79,7 +79,7 @@ When a creature fails a saving throw from a spell you cast, you have advantage o
 
 *10th-level Arcane Martialist Feature*
 
-You can use your bonus action to teleport yourself up to 60 feet to weapon connected to your arcane armory that is on the same plane of existance as you. Once you use this feature, you cannot use it again until you complete a short rest or by expending 2 spell points.
+You can use your bonus action to teleport yourself up to 60 feet to an item connected to your arcane armory that is on the same plane of existance as you. Once you use this feature, you cannot use it again until you complete a short rest or by expending 2 spell points.
 
 ## Steeled Adaptation
 

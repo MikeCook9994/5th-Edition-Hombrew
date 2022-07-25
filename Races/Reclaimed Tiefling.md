@@ -38,7 +38,7 @@ When a creature within 60 feet of you is about to make an attack roll, ability c
 
 #### Neutral
 
-When a creature within 60 feet of you makes an attack roll, ability check, or saving throw, you can use your reaction to prevent the roll from being affected by advantage or disadvantage. Once you use this feature, you cannot use it again until you complete a short or long rest.
+When a creature within 60 feet of you makes an attack roll, ability check, or saving throw, you can use your reaction to prevent the roll from being affected by advantage and disadvantage. Once you use this feature, you cannot use it again until you complete a short or long rest.
 
 #### Chaotic
 
