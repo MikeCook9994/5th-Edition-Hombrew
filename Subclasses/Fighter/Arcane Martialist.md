@@ -6,7 +6,7 @@ You view not just your blade as a weapon, but your mind as well. You have recogn
 
 *3rd-level Arcane Martialist Feature*
 
-When you reach 3rd level, you augment your martial prowess with the ability to cast spells.
+You have augmented your martial prowess with the ability to cast spells.
 
 ### Cantrips
 
