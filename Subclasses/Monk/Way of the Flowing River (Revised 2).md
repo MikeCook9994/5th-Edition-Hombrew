@@ -25,11 +25,11 @@ You can change your list of prepared ki manipulation when you finish a long rest
 
 ### Using a Ki Manipulations
 
-Each ki manipulation's description begins with a block of information that includes the ki manipulation's name, prerequisites (if applicable), and duration. Each ki manipulation entry defines two possible effects -- an *ebb* and a *flow*. A ki manipulation's *ebb* is a harmful effect that will cost inki points, while its *flow* is a beneficial effect that will cost yuki points. A ki manipulation's duration follows the same rules used for the duration of spells found in Chapter 10 of the Player's Handbook. Ki manipulation's can only target a creature within five feet of you.
+Each ki manipulation's description begins with a block of information that includes the ki manipulation's name, prerequisites (if applicable), and duration. Each ki manipulation entry defines two possible effects -- an *ebb* and a *flow*. A ki manipulation's *ebb* imposes a harmful effect that will cost inki points, while its *flow* confers a beneficial effect that will cost yuki points. A ki manipulation's duration follows the same rules used for the duration of spells found in Chapter 10 of the Player's Handbook. Ki manipulation's can only target a creature within five feet of you.
 
-Using a ki manipulation requires an action. When you do so, choose a ki manipulation from your list of prepared ki manipulations. Then choose the target of the ki manipulation and choose whether you will use the ebb or flow effects. Some effects may allow you to spend additional inki or youki points to improve the ki manipulation's effect. If a ki manipulation forces the target to make a saving throw, the DC is equal to your ki save DC.
+You can use an action to begin to meditate on a ki manipulation from your list of prepared ki manipulations for the duration of your turn. While meditating on a ki manipulation, you can choose a target for the ki manipulation's ebb or flow effects. When you do so, expend a number of inki or yuki points according to the ki manipulation effect's description. Some effects may allow you to spend additional inki or youki points to improve the ki manipulation's effect. If a ki manipulation forces the target to make a saving throw, the DC is equal to your ki save DC.
 
-When you use your action to perform a ki manipulation, you may use the same ki manipulation multiple times. The total number of youki and inki points you spend in a single turn may not exceed your proficiency bonus. When you use multiple ki manipulations on your turn, you may break up your movement between uses of a ki manipulation.
+The total number of youki and inki points you spend in a single turn may not exceed your proficiency bonus. A ki manipulation cannot target a creature more than once within the same turn. You may break up your movement between effecting a creature with a ki manipulation.
 
 ## To be Determined
 
