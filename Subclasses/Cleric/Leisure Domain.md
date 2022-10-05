@@ -41,7 +41,9 @@ Creatures have disadvantage on spells you cast that reduce their movement speed 
 ## Sluggish Spellcasting
 *8th-level Leisure Domain feature*
 
-Damaging a creature with a cleric cantrip also decreases their movement speed by 5 feet until the end of their next turn.
+When you damage a creature with a cleric cantrip, their movement speed is reduced by 5 feet until the end of their next turn. 
+
+This penalty increases to 10 feet when you reach 14th level.
 
 ## Strategic Procrastination
 *17th-level Leisure Domain feature*
