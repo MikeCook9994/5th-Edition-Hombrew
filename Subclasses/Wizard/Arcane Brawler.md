@@ -12,7 +12,7 @@ You learn the Mage Hand cantrip if you do not already know it. When you cast it 
 * Your mage hand can carry 5 pounds for each point of your Intelligence score.
 * When you cast the spell, you can command the hand as part of casting of the spell.
 
-Additionally, you can command your mage hand to make an unarmed strike against targets within 5 feet of it. When you do so, make a melee spell attack against the target. On a hit, the target suffers 1d6 + your Intelligence modifier force damage. This damage increases by 1d6 at 5th (2d6), 11th (3d6), and 17th (4d6) levels.
+Additionally, you can command your mage hand to make an unarmed strike against targets within 5 feet of it. When you do so, make a melee spell attack against the target. On a hit, the target suffers 1d4 + your Intelligence modifier force damage. This damage increases by 1d4 at 5th (2d4), 11th (3d4), and 17th (4d4) levels.
 
 ## Hit ‘em with a Left
 
@@ -34,7 +34,7 @@ When you cast Mage Hand or as a bonus action when your mage hand is active, you 
 
 When you use a spell slot of 3rd level or higher, the bonus increases by one for every two slot levels above 2nd. 
 
-## Got Their Number
+## Long Arms
 
 *10th Level Arcane Brawler Feature*
 
