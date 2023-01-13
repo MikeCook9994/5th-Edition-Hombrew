@@ -5,30 +5,40 @@ You rely on your understanding of the energies that suffuse common objects conne
 ## Casting Bones
 *1st-level Osteomancy Feature*
 
-You carry a set of common objects that may be small animal bones, seashells, feathers, or other trinkets connected to you or the natural world. The maximum number of items you can have in your osteomancy set at any time is equal to your Proficiency Bonus + your Intelligence modifier. You can add an item to your osteomancy set by performing a ritual lasting 10 minutes that cleanses the item and opens your mind up to its potential meanings. When you complete this ritual, choose a meaning from the "Osteomancy Set Item Meanings" table below to assign to it. You may conduct this ritual on an item already in your osteomancy set to choose a new meaning for it. No more than three items in your osteomancy set may have the same meaning at any time. You may remove an item from your osteomancy set at any time.
-
-life, suffering, fate, knowledge, strength, wealth, movement, desire, protection, spirit
+You carry a set of common objects that may be small animal bones, seashells, feathers, or other trinkets connected to you or the natural world. The maximum number of items you can have in your osteomancy set at any time is equal to your Proficiency Bonus + your Intelligence modifier. You can add an item to your osteomancy set by performing a ritual lasting 10 minutes that cleanses the item and opens your mind up to its potential meanings. When you complete this ritual, choose a meaning from the "Osteomancy Set Item Meanings" table below to assign to it. You may conduct this ritual on an item already in your osteomancy set to choose a new meaning for it. No more than three items in your osteomancy set may have the same meaning at any time. You may remove an item from your osteomancy set at any time. Your Osteomancy set can be used a spellcasting focus for your thaumaturge spells.
 
 **Osteomancy Set Item Meanings**
 
-| Thaumaturge Level | Meaning | Die |
-|---|---|---|
-|  |  | d4 |
-|  |  | d6 |
-|  |  | d8 |
-|  |  | d10 |
-|  |  | d12 |
-|  |  | d20 |
-|  |  | d100 |
+| Meaning | Die |
+|---|---|
+| protection | d4 |
+| movement | d6 |
+| life | d8 |
+| suffering | d10 |
+| Knowledge | d12 |
+| fate | d20 |
+| luck | d100 |
 
-Your Osteomancy set can be used a spellcasting focus for your thaumaturge spells.
-
-When you complete a long rest, you may cast the bones in your osteomancy set. To do so, choose a number of items in your osteomancy set equal to your Proficiency Bonus and roll the die associated with the meaning of each chosen items. Record the results of these die rolls. When you do this, discard any die rolls recorded from when you have previously cast your bones.
+When you complete a long rest, you may cast the bones in your osteomancy set. To do so, choose a number of items in your osteomancy set equal to your Proficiency Bonus and roll the die associated with the meaning of each chosen items. Record the meanings and the results of their associated die rolls. When you do this, discard any die rolls recorded from when you have previously cast your bones.
 
 ## Foretold Outcomes
 *1st-level Osteomancy Feature*
 
-Whenever you cast a thaumaturge spell using a spell slot, 
+When you cast a thaumaturge spell using a spell slot, you can pull on the threads of the Tapestry to aide in the manifestation the outcomes foretold by the bones you cast. You can choose one of the die rolls recorded when you cast your bones and gain an effect based on the meaning affiliated with the bone that was cast. Once you have chosen a particular result, it cannot be chosen again.
+
+  **protection.** Your armor class increases by the number rolled on the die when you cast your bones until the end of the next round. This effect can stack with spells that increase your armor class, but only the greatest instance of this effect can be applied at once.
+
+  **movement.** Immediately after casting the spell, you may move up to a number of feet equal to 5 times the number rolled on the die when you cast your bones. This movement does provoke opportunity attacks.
+
+  **life.** You or another creature within 60 feet of you regains hit points equal to the number rolled on the die when you cast your bones.
+
+  **suffering.** A creature within 120 feet of you suffers force damage equal to the number rolled on the die when you cast your bones.
+
+  **knowledge.** You may add the number rolled on the die when you cast your bones to the one Intelligence, Wisdom, or Charisma check that you make within the next minute that you are not already proficient in.
+
+  **fate.** You may replace a d20 roll made as a result of the spell's casting (e.g. an attack roll or saving throw) with the result of the number rolled on the die when you cast your bones.
+
+  **luck.** Roll a d100. If the result is greater than the number rolled on the die when you cast your bones, you may choose any of the other effects presented in this feature and gain its benefit. You may choose the value of the die referenced in the chosen effect's description.
 
 ## Fast Reader
 *6th-level Osteomancy Feature*
