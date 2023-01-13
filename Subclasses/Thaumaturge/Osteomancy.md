@@ -26,15 +26,15 @@ When you complete a long rest, you may cast the bones in your osteomancy set. To
 
 When you cast a thaumaturge spell using a spell slot, you can pull on the threads of the Tapestry to aide in the manifestation the outcomes foretold by the bones you cast. You can choose one of the die rolls recorded when you cast your bones and gain an effect based on the meaning affiliated with the bone that was cast. Once you have chosen a particular result, it cannot be chosen again.
 
-  **protection.** Your armor class increases by the number rolled on the die when you cast your bones until the end of the next round. This effect can stack with spells that increase your armor class, but only the greatest instance of this effect can be applied at once.
+  **protection.** The target of the spell's armor class increases by the number rolled on the die when you cast your bones until the start of their next turn. This effect can stack with other spells that increase armor class, but only the greatest active instance of this effect may be considered at a time.
 
   **movement.** Immediately after casting the spell, you may move up to a number of feet equal to 5 times the number rolled on the die when you cast your bones. This movement does provoke opportunity attacks.
 
-  **life.** You or another creature within 60 feet of you regains hit points equal to the number rolled on the die when you cast your bones.
+  **life.** You or the target of the spell regains hit points equal to the number rolled on the die when you cast your bones.
 
-  **suffering.** A creature within 120 feet of you suffers force damage equal to the number rolled on the die when you cast your bones.
+  **suffering.** The target of the spell suffers force damage equal to the number rolled on the die when you cast your bones.
 
-  **knowledge.** You may add the number rolled on the die when you cast your bones to the one Intelligence, Wisdom, or Charisma check that you make within the next minute that you are not already proficient in.
+  **knowledge.** The target of the triggering spell may add the number rolled on the die when you cast your bones to the one Intelligence, Wisdom, or Charisma check that they make within the next minute that they are not already proficient in.
 
   **fate.** You may replace a d20 roll made as a result of the spell's casting (e.g. an attack roll or saving throw) with the result of the number rolled on the die when you cast your bones.
 
