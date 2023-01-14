@@ -5,11 +5,13 @@ You rely on your understanding of the energies that suffuse common objects conne
 ## Casting Bones
 *1st-level Osteomancy Feature*
 
-You carry a set of common objects that may be small animal bones, seashells, feathers, or other trinkets connected to you or the natural world. The maximum number of items you can have in your osteomancy set at any time is equal to your Proficiency Bonus + your Intelligence modifier. You can add an item to your osteomancy set by performing a ritual lasting 10 minutes that cleanses the item and opens your mind up to its potential meanings. When you complete this ritual, choose a meaning from the "Osteomancy Set Item Meanings" table below to assign to it. You may conduct this ritual on an item already in your osteomancy set to choose a new meaning for it. No more than three items in your osteomancy set may have the same meaning at any time. You may remove an item from your osteomancy set at any time. Your Osteomancy set can be used a spellcasting focus for your thaumaturge spells.
+You carry an osteomancy set composed of objects connected to you or the natural world such as small animal bones, seashells, a trinket from a late parent, and more. The maximum number of items you can have in your osteomancy set at any time is equal to your Proficiency Bonus + your Intelligence modifier. Your Osteomancy set can be used as a spellcasting focus for your thaumaturge spells.
+
+You can add an item to your osteomancy set by performing a ritual lasting 10 minutes that cleanses the item and illuminates how the item is connected to the Tapestry. When you complete this ritual, choose a meaning from the "Osteomancy Set Item Meanings" table below to assign to it. You may conduct this ritual on an item already in your osteomancy set to choose a new meaning for it. No more than three items in your osteomancy set may have the same meaning at any time. You may remove an item from your osteomancy set at any time. 
 
 **Osteomancy Set Item Meanings**
 
-| Meaning | Die |
+| Meaning | Casting Die |
 |---|---|
 | protection | d4 |
 | movement | d6 |
@@ -17,9 +19,8 @@ You carry a set of common objects that may be small animal bones, seashells, fea
 | suffering | d10 |
 | Knowledge | d12 |
 | fate | d20 |
-| luck | d100 |
 
-When you complete a long rest, you may cast the bones in your osteomancy set. To do so, choose a number of items in your osteomancy set equal to your Proficiency Bonus and roll the die associated with the meaning of each chosen items. Record the meanings and the results of their associated die rolls. When you do this, discard any die rolls recorded from when you have previously cast your bones.
+When you complete a long rest, you may cast the bones in your osteomancy set. To do so, choose a number of items in your osteomancy set equal to your Proficiency Bonus and roll the casting die associated with the meaning of each chosen items. Record the meanings and the results of their associated casting die rolls. When you do this, discard any casting die result rolls recorded from when you have previously cast your bones.
 
 ## Foretold Outcomes
 *1st-level Osteomancy Feature*
@@ -37,8 +38,6 @@ When you cast a thaumaturge spell using a spell slot, you can pull on the thread
   **knowledge.** The target of the triggering spell may add the number rolled on the die when you cast your bones to the one Intelligence, Wisdom, or Charisma check that they make within the next minute that they are not already proficient in.
 
   **fate.** You may replace a d20 roll made as a result of the spell's casting (e.g. an attack roll or saving throw) with the result of the number rolled on the die when you cast your bones.
-
-  **luck.** Roll a d100. If the result is greater than the number rolled on the die when you cast your bones, you may choose any of the other effects presented in this feature and gain its benefit. You may choose the value of the die referenced in the chosen effect's description.
 
 ## Fast Reader
 *6th-level Osteomancy Feature*
