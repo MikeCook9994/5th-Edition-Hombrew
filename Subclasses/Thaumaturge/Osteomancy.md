@@ -5,29 +5,16 @@ You rely on your understanding of the energies that suffuse common objects conne
 ## Osteomancer's Foci
 *1st-level Osteomancy Feature*
 
-You have an osteomancy set that is composed of objects connected to you or the natural world. Examples of suitable items are animal bones, seashells, or a small trinket from a late parent or ancestor. The maximum number of items you can have in your osteomancy set at any time is equal to your Thaumaturge Level + your Intelligence modifier. Your Osteomancy set can be used as a spellcasting focus for your Thaumaturge spells.
+You have an osteomancy set that is composed of objects connected to you or the natural world. Examples of suitable items are animal bones, seashells, or a small trinket from a late ancestor. The maximum number of items you can have in your osteomancy set at any time is equal to your Thaumaturge Level + your Intelligence modifier. Your Osteomancy set can be used as a spellcasting focus for your Thaumaturge spells.
 
-You can add an item to your osteomancy set by performing a ritual lasting 10 minutes that cleanses the item and opens your mind to how the item is connected to the Tapestry. When you complete this ritual, choose a meaning from the "Osteomancy Set Item Meanings" table below to assign to it. You may conduct this ritual on an item already in your osteomancy set to choose a new meaning for it; however, no more than three items in your osteomancy set may have the same meaning at any time. You may remove an item from your osteomancy set at any time. Maintain a record of all of the items in your osteomancy set with the meanings you chose for them.
+You can add an item to your osteomancy set by performing a ritual lasting 10 minutes that opens your mind to how the item is connected to the Tapestry. When you complete this ritual, choose a meaning to assign to it. Meanings are detailed in the "Osteomancy Item Meaning Effects" section at the end of this subclass. You may conduct this ritual on an item already in your osteomancy set to choose a new meaning for it. You may remove an item from your osteomancy set at any time. Maintain a record of all of the items in your osteomancy set with the meanings you chose for them.
 
-**Osteomancy Set Item Meanings**
-
-| Casting Die | Meaning | Effect |
-|---|---|---|
-| d4 | Protection |  |
-| d4 | Certainty |  |
-| d4 | Failure |  |
-| d6 | Movement |  |
-| d8 | Life |  |
-| d8 | Suffering |  |
-| d10 |  |  |
-| d12 | Mind |  |
-| d12 | Body |  |
-| d20 | Fate |  |
-
-## Casting the Bones
+## Bone Casting Spellcraft
 *1st-level Osteomancy Feature*
 
-When you complete a long rest, you cast the bones in your osteomancy set. To do so, roll the casting die associated with the meaning you previously chose for each of the items in your osteomancy set, according to the "Osteomancy Set Item Meanings" table. Record the result of the casting die roll alongside the records of your osteomancy set items and their meanings. When you do this, discard the results of any casting die rolls from previous uses of this feature.
+You can cast the bones in your osteomancy set to divine information about the future. When you complete a long rest, roll the casting die associated with the previously chosen meaning of each item in your osteomancy set and record the result of the roll alongside the records of your osteomancy set items and their meanings. A small illusory visage of each item in your osteomancy set appears around you representing the reading you have discerned from that item. If any visages remain when you use this feature, they are lost.
+
+When you cast a thaumaturge spell using a spell slot, you can expend one of your readings to apply its effect as described in the "Osteomancy Item Meaning Effects" section at the end of this subclass. Once this is done, the illusory visage of the osteomancy set item that provided the reading fades.
 
 >**Osteomancy for Dice Goblins**\
 >\
@@ -35,43 +22,36 @@ When you complete a long rest, you cast the bones in your osteomancy set. To do 
 >\
 >If you choose to do this, it is important to amend your osteomancy set record for each item to include include a sufficient visual description of the persistent Casting Die. Whenever you use your Casting the Bones feature, you can roll all of the persistent Casting Dice at once, then record the result of each casting die roll with the item it represents.
 
-## Bone Casting Spellcraft
-*1st-level Osteomancy Feature*
-
-When you cast a thaumaturge spell using a spell slot, choose one of the items in your osteomancy set and enact the effect associated with its meaning that is described below. Once you have chosen to use an item from your osteomancy set with this feature, you may not select it again until you cast your bones again following a long rest.
-
-  **protection.** The target of the spell's armor class increases by the casting die's result until the start of their next turn.
-
-  **Certainty.** Add the casting die's result to your next attack roll.
-
-  **Failure.** Subtract the casting die's result from the next saving throw made in response to a spell you cast.
-
-  **movement.** Immediately after casting the spell, you may move up to a number of feet equal to 5 times the number rolled on the casting die. This movement does provoke opportunity attacks.
-
-  **life.** You or the target of the spell regains hit points equal the casting die's result.
-
-  **suffering.** The target of the spell suffers force damage equal the casting die's result.
-
-## Fate Reader
+## TBD
 *6th-level Osteomancy Feature*
 
-You have gained a greater attunement to the whispers that speak to you through your osteomancy set. The items in your osteomancy set can take a greater array of meanings. No more than two items in your osteomancy set may represent "Fate".
+TBD.
 
-**Expanded Osteomancy Set Item Meanings**
-
-| Casting Die | Meanings |
-|---|---|
-
-
-The new meanings above provide the following effects when they are enacted using your Bone Casting Spellcraft feature:
-
-  **Mind.** The target of the triggering spell may add the casting die's result to the one Intelligence, Wisdom, or Charisma Ability Check or Saving Throw that they are not already proficient in that they make within the next minute.
-
-  **Body.** The target of the triggering spell may add the casting die's result to the one Strength, Dexterity, or Constitution Ability Check or Saving Throw that they are not already proficient in that they make within the next minute.
-
-  **Fate.** You may replace a d20 roll made as a result of the spell's casting (e.g. an attack roll or saving throw) with the result of the number rolled on the die when you cast your bones.
-
-## High Thread Count
+## TBD
 *18th-level Osteomancy Feature*
 
 TBD.
+
+## Osteomancy Item Meaning Effects
+
+The osteomancy item meaning effects are presented in alphabetical order. If a meaning requires a level, you must be that level in the thaumaturge class to use that meaning.
+
+  _**Body. (6th-level required)**_ The target of the spell you have cast can add the casting die's result to the one Strength, Dexterity, or Constitution Ability Check or Saving Throw that they are not already proficient in that they make within the next minute. (d12)
+
+  _**Certainty.**_ Add the casting die's result to your next attack roll made before the end of your next turn. (d4)
+
+  _**Failure.**_ Subtract the casting die's result from the next saving throw made in response to a spell you cast before the end of your next turn. (d4)
+
+  _**Fate. (11th-level required)**_ You may replace a the d20 roll of an attack roll or saving throw made as a result of the spell's casting with the casting die's result. (d20)
+
+  _**Life. (6th-level required)**_ You or the target of the spell regains hit points equal the casting die's result. (d8)
+
+  _**Luck.**_ Roll a d100. If the result is greater than the number rolled on the casting die, choose any of your osteomancy readings that you have already expended and apply its effect. (d100)
+
+  _**Mind. (6th-level required)**_ The target of the spell you have cast can add the casting die's result to the one Intelligence, Wisdom, or Charisma Ability Check or Saving Throw that they are not already proficient in that they make within the next minute. (d12)
+
+  _**Movement.**_ Immediately after casting the spell, you may move up to a number of feet equal to 5 times the result of the casting die. This movement does provoke opportunity attacks. (d6)
+
+  _**Protection.**_ The armor class of the spell's target is increased by the casting die's result until the start of their next turn. (d4)
+
+  _**Suffering. (6th-level required)**_ The target of the spell suffers force damage equal the casting die's result. (d8)
