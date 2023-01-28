@@ -30,6 +30,8 @@ Your mind expands and becomes enlightened to the mysterious magics of the far re
 
   8. *Inversion Ray.*
 
+  9. *Enlightenment Ray.*
+
 **Antimagic Cone.** Your eyes project a 30-foot cone of disruptive energy that inhibits all magic according to the rules of the *antimagic field* spell. The cone faces whichever direction you are facing. At the start of your turn and when you cast this spell, you can decide whether the antimagic effect is active active or not.
 
 **Levitate.** You immediately ascend 5 feet into the air and gain a fly speed of 30 feet.
