@@ -1,8 +1,3 @@
----
-created: 2023-01-20T00:37:00-08:00
-modified: 2023-01-23T09:29:44-08:00
----
-
 # Chrysalis
 
 *5th-level transmutation*
