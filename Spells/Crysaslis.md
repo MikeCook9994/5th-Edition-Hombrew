@@ -1,21 +1,15 @@
-# Chrysalis
-
 *5th-level transmutation*
 
 **Casting Time.** 1 action
 
 **Range.** 60 feet
 
-**Components.** V, S, M (the spent chrysalis from a butterfly)
+**Components.** V, S, M (a caterpillar cocoon)
 
 **Duration.** Instantaneous
 
-Choose a willing creature that you can see within range. The spell fails if the target is not willing. The target becomes swathed in a protective shell made of organic material such as bark, webbing, etc... and gains temporary hit points equal to 5d8 + 5 times your spellcasting modifier. The target is stabilized if they are at 0 hit points. The shell is destroyed if the target loses all temporary hit points granted by this spell. While this shell persists, the target is incapacitated, grappled, and has total cover.
+Choose a willing creature that you can see within range. The target becomes swathed in a protective shell. They gain temporary hit points equal to 5d8 + 5 times your spellcasting modifier and become stable if they are at 0 hit points. While the target has any temporary hit points granted by spell, they are incapacitated, grappled, and have total cover.
 
-If the shell remains at the beginning of your next turn, the target is birthed from the shell. The target loses all remaining temporary hit points that were granted from this spell and gains hit points equal to the same number. Additionally, the target benefits from the following effects for one minute:
-* They gain a Fly speed of 30 feet.
-* They have advantage on Dexterity saving throws.
+At the start of your next turn, the target loses all remaining temporary hit points that were granted from this spell and regains hit points equal to the same number. If the target gains at least one hit point from this effect, a pair of spectral wings manifest from their back granting them a fly speed of 60 feet and half cover for 1 minute.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 6th level of higher, the target gains additional temporary hit points equal to 1d8 + your spellcasting ability modifier for each slot level above 5th.
-
-Spell Lists: Druid, Ranger
+Spell Lists: Druid, Rangerx
