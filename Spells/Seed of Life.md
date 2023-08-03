@@ -1,6 +1,6 @@
 ## Seed of Life
 
-*4th-level Evocation*
+*4th-level Abjuration*
 
 **Casting Time:** 1 action
 
