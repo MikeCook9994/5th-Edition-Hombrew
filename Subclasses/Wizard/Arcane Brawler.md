@@ -1,6 +1,6 @@
 # Arcane Brawler
 
-*A* street ruffian with a spark of arcane potential, you never turned down a fight even when you had the chance to. But when others chose to train their bodies, you chose to train your mind because you prefer not to get your hands dirty.
+A street ruffian with a spark of arcane potential, you never turned down a fight even when you had the chance to. But when others chose to train their bodies, you chose to train your mind because you prefer not to get your hands dirty.
 
 ## Shadow Boxing
 
