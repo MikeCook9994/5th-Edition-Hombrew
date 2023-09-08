@@ -14,9 +14,9 @@ As you gain levels in this class, you can expend additional barbarian hit dice t
 
 You prepare a number of barbarian spells that are available to you to cast, choosing from the sorcerer spell list. When you do so, choose a number of barbarian spells equal to your Constitution modifier + one third of your barabarian level, rounded up (minimum of one spell). The spell's level must not be higher than the maximum spell slot level you can create.
 
-For example, if you are a 8th level path of wonder barbarian, you can expend up to 2 hit dice to create a spell slot. If you have a constituation of 16, your list of prepared spells can include up to 6 spells spells of 1st-level or 2nd-level in any combination. Casting the spell doesn't remove it from your list of prepared spells.
+For example, if you are a 8th level path of wonder barbarian, you can expend up to 2 hit dice to create a spell slot equal to the number of hit dice expended. If you have a constituation of 16, your list of prepared spells can include up to 6 spells spells of 1st-level or 2nd-level in any combination. Casting the spell doesn't remove it from your list of prepared spells.
 
-You can change your list of prepared spells, when you finish a long rest.
+You can change your list of prepared spells when you finish a long rest.
 
 ### Spellcasting Ability
 
