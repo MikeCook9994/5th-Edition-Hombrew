@@ -56,24 +56,3 @@ You can use your bonus action to expend a use of your wild shape to conjure a ni
 Additionally, can bind your scythe to another magical weapon by performing a special ritual while the weapon and your scythe are within 5 feet of you. You perform the ritual over the course of 1 hour, which can be done during a short rest. You can’t affect an artifact or a sentient weapon in this way. When the ritual completes, the weapon is consumed by your scythe and it now gains all of its magical properties. You can choose to attune to the weapon when this ritual completes if you are not already attuned; however, you must be attuned to the weapon to benefit from any of the weapon's magical properties that require attunement.
 
 The bond between your sycthe and the weapon breaks if you die, perform the 1-hour ritual on a different weapon, unattune from the original weapon, or use a another 1-hour ritual. The weapon appears at your feet when the bond breaks. 
-
-## Sadistic Insight
-*6th-level Circle of Nightmares Feature*
-
-You can use your action to make a Wisdom (Insight) check contested against a creature's Charisma (Deception) check. If you win the contest, you gain a physcic insight into the the target's deepest fears and insecurities for the next 10 days. When you would roll on the Torment table to select which nightmare will haunt the target, you may choose the torment instead of rolling.
-
-If you lose the contest, the target automatically wins future contests for the next 24 hours.
-
-## In The Shadows
-*10th-level Circle of Nightmares Feature*
-
-Necromancy, Illusion, or Enchantment Spells that require a range of touch can be cast through the target's shadow as if you occupied the space. You do not benefit from this feature against creatures that do not cast a shadow or creatures that illuminate light through themselves or their equipement.
-
-## Harbinger of Nightmares
-*14th-level Cirlce of Nightmares Feature*
-
-When you expend a use of your wild shape to conjure your scythe, you can choose to assume the form of the Harbinger of Nightmares. This form lasts for 10 minutes or until your are unconscious. While you are in this form you gain the following benefits:
-
-* You have a Fly speed equal to your movement speed and you can hover. Additionally, you can move through creatures and objects without expending additional movement. If you end your turn in a space occupied by an object, you are shunted to the nearest unoccupied space and you take 3d10 force damage.
-* You can attack with your conjured scythe twice, instead of once, whenver you take the attack action on your turn.
-* You are immune to the Feared condition and creatures have disadvantage on Saving Throws against your spells and effects that cause the Feared condition.
