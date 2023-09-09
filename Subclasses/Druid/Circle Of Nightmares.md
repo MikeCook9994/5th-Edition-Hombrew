@@ -1,6 +1,6 @@
 # Circle of Nightmares
 
-Druids of most other circles find purpose in shepparding and sheltering living beasts and creatures alike. They guide them to where they seek and provide them healing in times of need. These other druid circles also recognize the importance in preserving the natural balance. What must live must eventually die so life can be born anew. However, there are those that seek to pervert this cycle by seeking to preserve life when it is time for it to pass. Druids of the Circle of Nightmares carry the heavy burden of balancing the scales once against this perversion. You are the darkness, for without it, there would be nothing for the light to illuminate.
+Druids of most other circles find purpose in shepparding and sheltering living beasts and creatures alike. They guide them to where they seek and provide them healing in times of need. These other druid circles also recognize the importance in preserving the natural balance. What must live must eventually die, so life can be born anew. However, there are those that pervert this cycle by seeking to preserve life when it is time for it to pass or by taking life before it is it's time to end. Druids of the Circle of Nightmares carry the heavy burden of balancing the scales against these perversions. You are the darkness, for without it, there would be nothing for the light to illuminate.
 
 ## Cirlce Spells
 *2nd-level Circh of Nightmares Feature*
@@ -16,13 +16,15 @@ Once you gain access to one of these spells, you always have it prepared, and it
 | 2nd | Minor Illusion, Toll The Dead, Inflict Wounds, Sleep |
 | 3rd | Darkness, Phantasmal Force |
 | 5th | Fear, Spirit Shroud |
-| 7th | Evard's Black Tentacles, Phantasmal Killer |
+| 7th | Evard's Black Tentacles, Phantasmal Killer | 
 | 9th | Dream, Negative Energy Flood |
 
 ## Weeping Nightmare
 *2nd-level Circle of Nightmares Feature*
 
-The wounds you leave your enemies with scar not just their bodies but their psyches. Once per turn when you deal damage to a creature, you can choose to roll your torment die, a d4, to determine which nightmare from the Torment Table below will haunt their mind. You describe how the torment manifests in the mind of the creature when you select the torment. If you roll a critical hit against the target, you may roll your torment die twice and choose which torment to use from the die rolls. If both of the torment dies are the same, you may choose any torment which you could possibly roll with your current torment die. For example, if you current torment die is a d6, you may not choose a torment from the table with where the value in the torment die result column is greater than 6.
+The wounds you leave your enemies with scar not just their bodies but their psyches. Once per turn when you deal damage to a creature, you can choose to roll your torment die, a d4, to determine which nightmare from the Torment Table below will haunt their mind. You describe how the torment manifests in the mind of the creature when you select the torment.
+
+If you roll a critical hit against the target, you may roll your torment die twice and choose which torment to use from the die rolls. If both of the torment dies are the same, you may choose any torment which you could possibly roll with your current torment die. For example, if you current torment die is a d6, you may not choose a torment from the table with where the value in the torment die result column is greater than 6.
 
 Your torment die changes when you reach certain levels in this class. The die becomes a d6 at 5th level, a d8 at 9th level, a d10 at 13th level, and a d12 at 17th level. 
 
@@ -30,18 +32,18 @@ Your torment die changes when you reach certain levels in this class. The die be
 
 | Torment Die Result | Torment |
 |:---:|---|
-| 1 | Roll your torment die. The target suffers damage equal to the result of the roll of a type of your choice. The chosen damage type cannot be psychic, radiant, or force damage. |
-| 2 | Roll your torment die. The target suffers a penalty to their next attack roll equal to the result of the roll. |
-| 3 | Roll your torment die. The next attack against the the target a bonus to the attack equal to the result of the roll. |
-| 4 | Roll your torment die. The target's movement speed is reduced by a number equal to 5 times the result, up to half of the target's movement speed. |
+| 1 | The target suffers additional damage of a type of your choice equal to one roll of your torment die. The chosen damage type cannot be psychic, radiant, or force damage. |
+| 2 | The target suffers a penalty to their next attack roll equal to one roll of your torment die. |
+| 3 | The next attack against the the target gains a bonus to the attack equal to one roll of your torment die. |
+| 4 | The target's movement speed is reduced by a number equal to 5 times one roll of your torment die, up to half of the target's movement speed. |
 | 5 | The target's armor class is reduced by 2 until the the end of your next turn. |
-| 6 | Roll your torment die two times, rerolling 6s and 12s. The target suffers two torments according to the results of the torment die rolls. |
+| 6 | Roll on the torment table twice using a d4 and a d6. Treat a roll of a 6 as a 1. The target suffers both torments. |
 | 7 | The target must make a Wisdom saving throw against your spell save DC. On a failed save, the target falls prone. |
-| 8 | Roll your torment die. The target has a penalty to their next saving throw equal to the result of the roll. |
+| 8 | The target has a penalty to their next saving throw equal to one roll of your torment die. |
 | 9 | The target must make a Constitution saving throw against your spell save DC. On a failed save, the target is blinded or deafened (your choice) until the end of your next turn. |
 | 10 | The target must make a Wisdom saving throw against your spell save DC. On a failed save, the target is stunned until the end of your next turn. |
-| 11 | The target must make a Wisdom saving throw against your spell save DC. On a failed save, the target must use their reaction to move up to their movement speed to attack their closest ally. If there is no ally within range, the target makes one attack against themself. |
-| 12 | Roll your torment die three times, rerolling 6s and 12s. The target suffers three torments according to the result of those torment die rolls. |
+| 11 | The target must make a Wisdom saving throw against your spell save DC. On a failed save, the target must use their reaction to attack their closest ally, moving up to their movement speed if necessary. If there is no ally within range, the target makes one attack against themself. |
+| 12 | Roll on the torment table three times using a d4, d6, and d8. Treat a roll of a 6 as a 1. The target suffers all three torments. |
 
 ## Reaper's Scythe
 *2nd-level Circle of Nightmares Feature*
