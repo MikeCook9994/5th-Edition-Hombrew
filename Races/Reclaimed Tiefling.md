@@ -30,16 +30,16 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for this feature.
 
 ### Deific Influence
 
-You gain an additional trait based on the alignment of the deity that reclaimed your ancestry.
+You have the ability to sway the tides of fate based on the alignment of the deity that reclaimed your ancestry.
 
 #### Lawful
 
-When a creature within 60 feet of you is about to make an attack roll, ability check, or saving throw, you can use your reaction to force the creature to first roll a d20. If the result of the roll is greater than 10, the creature has advantage on their next roll. If the result of the roll is less than 10, the creature has disadvantage on their next roll. If the creature rolls a 10, you choose whether they have advantage or disadvantage on the next roll. Once you use this feature, you cannot use it again until you complete a short or long rest.
+When a creature within 60 feet of you is about to make an attack roll, ability check, or saving throw, you can use your reaction to force the creature to first roll a d20. If the result of the roll is greater than 10, the creature has advantage on their next roll. If the result of the roll is less than 10, the creature has disadvantage on their next roll. If the creature rolls a 10, you choose whether they have advantage or disadvantage on the next roll. You can use this feature a number of times equal to your proficiency bonus, regaining expended uses when you complete a long rest.
 
 #### Neutral
 
-When a creature within 60 feet of you makes an attack roll, ability check, or saving throw, you can use your reaction to prevent the roll from being affected by advantage and disadvantage. Once you use this feature, you cannot use it again until you complete a short or long rest.
+When a creature within 60 feet of you makes an attack roll, ability check, or saving throw, you can use your reaction to prevent the roll from being affected by advantage and disadvantage. You can use this feature twice, regaining expended uses when you finish a long rest.
 
 #### Chaotic
 
-When a creature within 60 feet of you makes an attack roll, ability check, or saving throw, you can use your reaction to make the creature roll a second time. You choose which of the two die rolls they use. Once within the next minute, when you make an attack roll, ability check, or saving throw, you can choose to replace the result of your roll with the number you did not choose when you used this feature. Once you use this feature, you cannot use it again until you complete a short or long rest.
+After a creature within 60 feet of you rolls a d20 to make an attack roll, ability check, or saving throw, you can use your reaction to force the creature to roll a second d20. Then, flip a coin. On a heads, they use the first roll, on tails, they use the second roll. Once within the next minute, when you make an attack roll, ability check, or saving throw, you can choose to replace the result of your roll with the result of the roll that was not previously selected. You can use this feature a number of times equal to your proficiency bonus, regaining expended uses when you complete a long rest.
