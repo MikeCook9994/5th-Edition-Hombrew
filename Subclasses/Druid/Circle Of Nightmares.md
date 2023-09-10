@@ -20,11 +20,11 @@ Once you gain access to one of these spells, you always have it prepared, and it
 ## Nightmare's Torment
 *2nd-level Circle of Nightmares Feature*
 
-The wounds you leave your enemies with scar not just their bodies but their psyches. Once per turn when you deal damage to a creature, you can choose to roll your torment die, a d4, to determine which nightmare from the Torment Table below will haunt their mind. You describe how the torment manifests in the mind of the creature when you select the torment.
+You exploit the interconnectedness of all natural things to wound not just the bodies of your enemies, but their psyches as well. Your natural capability to languish your foes with nightmarish torments is represented by your Torment Dice, each of which are a d4. You have a number of these dice equal to two times your proficiency Bonus.
 
-If you roll a critical hit against the target, you may roll your torment die twice and choose which torment to use from the die rolls. If both of the torment dies are the same, you may choose any torment which you could possibly roll with your current torment die. For example, if you current torment die is a d6, you may not choose a torment from the table with where the value in the torment die result column is greater than 6.
+Once per turn when you deal damage to a creature, you can roll a d4 to roll on the torment table without expending a Torment Die. Additionally, you can choose to expend a Torment Die to subject the target to additional or more severe torments. When you expend Torment Dice, you can treat each die as an individual roll on the Torment table or you can add the results of the Torment Die rolls in any permutation to roll more severe torments on the Torment Table. You regain all of your Torment Dice when you finish a long rest.
 
-Your torment die changes when you reach certain levels in this class. The die becomes a d6 at 5th level, a d8 at 9th level, a d10 at 13th level, and a d12 at 17th level. 
+The number of Torment Dice you can expend simultaneously increases to 2 at 9th level and to 3 at 17th level.
 
 **Torment Table**
 
