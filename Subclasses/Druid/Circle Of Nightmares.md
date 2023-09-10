@@ -46,17 +46,10 @@ The number of Torment Dice you can expend simultaneously increases to 2 at 9th l
 ## Reaper's Scythe
 *2nd-level Circle of Nightmares Feature*
 
-You can always conjure your weapon as a bonus action without expending a resource. When you conjure it or as a bonus action, you can expend a wild shape to empower it *somehow*. 
-* it deals bonus damage? 
-* you get a spiritual weapon version of the scythe? 
-* the wisdom property isn't baseline? 
+You can use your bonus action to conjure a nightmarish weapon in the form of scythe. The conjured weapons disappears until you dismiss it as a bonus action, you die, or if you are more than 5 feet from the weapon for longer than 1 minute. The weapon has the statistics of a glaive and is considered magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage. Additionally, it can be used as a spellcasting focus for your druid spells.
 
-You can use your bonus action to expend a use of your wild shape to conjure a nightmarish scythe. The conjured weapon persists for a number of hours equal to half of your druid level (rounded down). The weapon disappears if you die or if you are more than 5 feet from the weapon for longer than 1 minute. The weapon has the following properties.
-
-* It has the statistics of a glaive
-* It is considered magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
-* It can be used as a spellcasting focus for your druid spells.
+When you conjure the scythe, or as a bonus action after it has been conjured, you can expend a use of your wild shape to empower your scythe. The scythe's empowerment lasts for 10 minutes. While your scythe is empowered and you roll a critical hit with a melee attack using the weapon or with a spell that uses it as a spellcasting focus, you can roll on the Torment table using the maximum number of allowed Torment Dice without expending them.
 
 Additionally, can bind your scythe to another magical weapon by performing a special ritual while the weapon and your scythe are within 5 feet of you. You perform the ritual over the course of 1 hour, which can be done during a short rest. You can’t affect an artifact or a sentient weapon in this way. When the ritual completes, the weapon is bound to your scythe. While the weapon is bound to your scythe, the weapon is absorbed into your scythe and the scythe gains its magical properties. 
 
-The bond between your sycthe and the weapon breaks if you die, perform the 1-hour ritual on a different weapon, or use a another 1-hour ritual. The weapon appears at your feet when the bond breaks.
+The bond between your sycthe and the weapon breaks if you die, perform the 1-hour ritual on a different weapon, or use a another 1-hour ritual. The bound weapon appears at your feet when the bond breaks.
