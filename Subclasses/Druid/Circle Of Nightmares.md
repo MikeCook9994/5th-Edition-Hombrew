@@ -22,7 +22,7 @@ Once you gain access to one of these spells, you always have it prepared, and it
 
 You exploit the interconnectedness of all natural things to wound not just the bodies of your enemies, but their psyches as well. Your natural capability to languish your foes with nightmarish torments is represented by your Torment Dice, each of which are a d4. You have a number of these dice equal to two times your proficiency Bonus.
 
-Once per turn when you deal damage to a creature, you can roll a d4 to roll on the torment table without expending a Torment Die. Additionally, you can choose to expend a Torment Die to subject the target to additional or more severe torments. When you expend Torment Dice, you can treat each die as an individual roll on the Torment table or you can add the results of the Torment Die rolls in any permutation to roll more severe torments on the Torment Table. You regain all of your Torment Dice when you finish a long rest.
+Once per turn when you deal damage to a creature, you can roll a d4 to roll on the torment table without expending a Torment Die. Additionally, you can choose to expend a Torment Die to subject the target to additional or more severe torments. When you expend Torment Dice, you can treat each die as an individual roll on the Torment table or you can add the results of the die rolls in any permutation, to roll more severe torments on the Torment Table. You regain all of your Torment Dice when you finish a long rest.
 
 The number of Torment Dice you can expend simultaneously increases to 2 at 9th level and to 3 at 17th level.
 
