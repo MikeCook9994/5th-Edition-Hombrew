@@ -12,7 +12,7 @@ You learn the Mage Hand cantrip if you do not already know it. When you cast it 
 * Your mage hand can carry 5 pounds for each point of your Intelligence score.
 * When you cast the spell, you can command the hand as part of casting of the spell.
 
-Additionally, you can command your mage hand to make an unarmed strike against targets within 5 feet of it. When you do so, make a melee spell attack against the target. On a hit, the target suffers 1d4 + your Intelligence modifier force damage. This damage increases by 1d4 at 5th (2d4), 11th (3d4), and 17th (4d4) levels.
+Additionally, you can command your mage hand to make an unarmed strike against targets within 5 feet of it. When you do so, make a melee spell attack against the target. On a hit, the target suffers 1d4 + your Intelligence modifier force damage.
 
 ## Hit ‘em with a Left
 
