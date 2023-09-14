@@ -11,7 +11,7 @@ Once you gain access to one of these spells, you always have it prepared, and it
 
 | Druid Level | Spells |
 |:---:|---|
-| 2nd | Minor Illusion, Toll The Dead, Inflict Wounds, Sleep |
+| 2nd | Minor Illusion, Chill Touch, Inflict Wounds, Sleep |
 | 3rd | Darkness, Phantasmal Force |
 | 5th | Fear, Spirit Shroud |
 | 7th | Evard's Black Tentacles, Phantasmal Killer | 
