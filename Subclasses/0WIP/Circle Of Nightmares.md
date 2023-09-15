@@ -22,35 +22,33 @@ Once you gain access to one of these spells, you always have it prepared, and it
 ## Nightmare's Torment
 *2nd-level Circle of Nightmares Feature*
 
-You exploit the interconnectedness of all natural things to wound not just the bodies of your enemies, but their psyches as well. 
+You can exploit the interconnectedness of all natural things to wound not just the bodies of your enemies, but their psyches as well. Your natural capability to languish your foes with nightmarish torments is represented by your Torment Dice, each of which are a d4. You have a number of these dice equal to two times your proficiency Bonus. Once per turn, when you deal damage to a creature or a creature fails a saving throw forced by a spell you cast, you can choose to expend a torment die to roll on the Torment Table below and subject the target to the resulting effect.
 
-Once per turn when you deal damage to a creature, you can roll a d4 to roll on the torment table. 
+The maxinum number of torment dice you can expend at once increases by 1 when you reach levels 6 (2 dice), 10 (3 dice), and 14 (4 dice) in the druid class. When you roll multiple torment dice, you can choose to group the torment die rolls in any combination. You then sum the results of the torment die rolls in each group to determine the torment for that group according to the Torment table. Any torment die rolls that are not not grouped with another roll are treated as an individual roll on the Torment table. Treat any group with a sum greater than 12 as a 12. 
+
+You regain all of your expended torment dice when you finish a long rest.
 
 **Torment Table**
 
 | Torment Die Result | Torment |
 |:---:|---|
-| 1 | The target suffers additional damage of a type of your choice equal to one roll of your torment die. The chosen damage type cannot be psychic, radiant, or force damage. |
-| 2 | The target suffers a penalty to their next attack roll equal to one roll of your torment die. |
+| 1 |  |
+| 2 |  |
 | 3 |  |
-| 4 | The target's movement speed is reduced by a number equal to 5 times one roll of your torment die, up to half of the target's movement speed. |
-| 5 | The target's armor class is reduced by 2 until the the end of your next turn. |
-| 6 | Roll on the torment table twice using a d4 and a d6. Treat a roll of a 6 as a 1. The target suffers both torments. |
+| 4 |  |
+| 5 |  |
+| 6 |  |
 | 7 |  |
 | 8 |  |
-| 9 |  |
+| 9 |  | 
 | 10 |  |
-| 11 | The target must make a Wisdom saving throw against your spell save DC. On a failed save, the target must use their reaction to attack their closest ally, moving up to their movement speed if necessary. If there is no ally within range, the target makes one attack against themself. |
-| 12 | Roll on the torment table three times using a d4, d6, and d8. Treat a roll of a 6 as a 1. The target suffers all three torments. |
+| 11 |  |
+| 12 |  |
 
-Your natural capability to languish your foes with nightmarish torments is represented by your Torment Dice, each of which are a d4. You have a number of these dice equal to two times your proficiency Bonus.
-
-Additionally, you can choose to expend a Torment Die to subject the target to additional or more severe torments. When you expend Torment Dice, you can treat each die as an individual roll on the Torment table or you can add the results of the die rolls in any permutation, to roll more severe torments on the Torment Table. You regain all of your Torment Dice when you finish a long rest.
-
-The number of Torment Dice you can expend simultaneously increases to 2 at 9th level and to 3 at 17th level.
-
-## Reaper's Scythe
+## Sheppard of Nightmares
 *2nd-level Circle of Nightmares Feature*
+
+Once per turn when you deal damage to a creature or force a creature to make a saving throw, you can roll a d4 
 
 You can use your bonus action to conjure a nightmarish weapon in the form of scythe. The conjured weapons disappears until you dismiss it as a bonus action, you die, or if you are more than 5 feet from the weapon for longer than 1 minute. The weapon has the statistics of a glaive and is considered magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage. Additionally, it can be used as a spellcasting focus for your druid spells.
 
