@@ -43,10 +43,10 @@ You regain all of your expended torment dice when you finish a long rest.
 | 9 | The target must make a constitution saving throw. On a failed save, the target is stunned until the end of its next turn. |
 | 10 | The target suffers 4d4 damage of a type of your choice and must make a wisdom saving throw. On a failed save, the target is feared for one minute. A creature can repeat this saving throw at the end of each of its turns if it cannot see you. A creature that fails this saving throw instantly dies if its challenge rating is less than your druid level divided by 5. |
 
-## Sheppard of Nightmares
+## Reaper of Nightmares
 *2nd-level Circle of Nightmares Feature*
 
-You conjure a nightmarish weapon in the form of scythe. You can conjure and dismiss the scythe as if drawing or sheathing any other weapon. The disappears until you dismiss it, you die, or if you are more than 5 feet from the weapon for longer than 1 minute. The weapon counts quarterstaff; however, it deals slashing damage instead of bludgeoning. Additionally, it can be used as a spellcasting focus for your druid spells.
+You conjure a nightmarish weapon in the form of scythe. You can conjure and dismiss the scythe as if drawing or sheathing any other weapon. The weapon lasts until you dismiss it, you die, or if you are more than 5 feet from the weapon for longer than 1 minute. The weapon counts quarterstaff; however, it deals slashing damage instead of bludgeoning. Additionally, it can be used as a spellcasting focus for your druid spells.
 
 You can expend a use of your wild shape to empower your scythe after it has been conjured. The scythe's empowerment lasts for 10 minutes. While the scythe is empowered, once per turn, you can roll on the Torment table without expending one of your available torment dice. You can choose to spend additional torment dice when you use this feature.
 
