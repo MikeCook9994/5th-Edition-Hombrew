@@ -8,18 +8,18 @@ When a creature rolls a bardic inspiration die awarded by you, they gain an addi
 
 | Bardic Inspiration Die | Effect |
 |---|---|
-| 1 | The target’s Armor Class increases by 1d4 until the end of their next turn |
-| 2 | The creature makes its next attack with advantage |
-| 3 | T.B.D. |
-| 4 | T.B.D. |
-| 5 | T.B.D. |
-| 6 | T.B.D. |
-| 7 | T.B.D. |
-| 8 | T.B.D. |
-| 9 | T.B.D. |
-| 10 | T.B.D. |
-| 11 | T.B.D. |
-| 12 | Each friendly creature within 30 feet of the creature heals for 2d10 and each hostile creature within 30 feet of you is targeted by a 1st level chromatic orb spell. |
+| 1 |  |
+| 2 |  |
+| 3 |  |
+| 4 |  |
+| 5 |  |
+| 6 |  |
+| 7 |  |
+| 8 |  |
+| 9 |  |
+| 10 |  |
+| 11 |  |
+| 12 |  |
 
 ## Wild Magic Surge
 
@@ -65,7 +65,7 @@ Additionally, when you a creature uses a bardic inspiration die awarded by you, 
 | 63-64 |  |
 | 65-66 |  |
 | 67-68 |  |
-| 69-70 | You immediately cast charm person on all creatures within 30 feet of you. |
+| 69-70 |  |
 | 71-72 |  |
 | 73-74 |  |
 | 75-76 |  |
