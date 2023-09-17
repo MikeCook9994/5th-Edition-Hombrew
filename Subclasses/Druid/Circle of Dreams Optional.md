@@ -22,7 +22,7 @@ Once you gain access to one of these spells, you always have it prepared, and it
 ## Sheppard of Dreams
 *2nd-level Circle of Dreams Feature*
 
-You conjure a dremy weapon in the form of a crook. You can conjure and dismiss the crook as if drawing or sheathing any other weapon. The weapon lasts until you dismiss it, you die, or if you are more than 5 feet from the weapon for longer than 1 minute. The weapon counts quarterstaff and it can be used as a spellcasting focus for your druid spells.
+You conjure a dremy weapon in the form of a sheppard's crook. You can conjure and dismiss the crook as if drawing or sheathing any other weapon. The weapon lasts until you dismiss it, you die, or if you are more than 5 feet from the weapon for longer than 1 minute. The weapon counts quarterstaff and it can be used as a spellcasting focus for your druid spells.
 
 You can expend a use of your wild shape to empower your crook after it has been conjured. The crooks's empowerment lasts for 10 minutes. While the crook is empowered, you can add your wisdom modifier to any healing a creature receives from your balm of the summer court feature. Additionally, a creature gains a +1 bonus to their AC while they have temporary hit points from your balm of the summer court feature.
 
