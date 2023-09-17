@@ -1,3 +1,5 @@
+# Circle of Nightmares
+
 Druids of most other circles find purpose in shepparding and sheltering living beasts and creatures alike. They guide them to where they seek and provide them healing in times of need. These other druid circles also recognize the importance in preserving the natural balance. What must live must eventually die, so life can be born anew. However, there are those that pervert this cycle by seeking to preserve life when it is time for it to pass or by taking life before it is its time to end. Druids of the Circle of Nightmares carry the heavy burden of balancing the scales against these perversions. You are the darkness, for without it, there would be nothing for the light to illuminate.
 
 ## Circle Spells
@@ -20,43 +22,34 @@ Once you gain access to one of these spells, you always have it prepared, and it
 ## Nightmare's Torment
 *2nd-level Circle of Nightmares Feature*
 
-The wounds you leave your enemies with scar not just their bodies but their psyches. Once per turn when you deal damage to a creature, you can choose to roll your torment die, a d4, to determine which nightmare from the Torment Table below will haunt their mind. You describe how the torment manifests in the mind of the creature when you select the torment.
+You can exploit the interconnectedness of all natural things to wound not just the bodies of your enemies, but their psyches as well. Your natural capability to languish your foes with nightmarish torments is represented by your Torment Dice, each of which are a d4. You have a number of these dice equal to two times your proficiency Bonus. On your turn, when you deal damage to a creature or a creature fails a saving throw forced by a spell you cast, you can choose to expend torment dice to roll on the Torment Table below. You describe how the torment manifests in the mind of the target. You can expend up to 2 torment dice on your turn. This increases to 3 when you reach level 10 in the druid class.
 
-If you roll a critical hit against the target, you may roll your torment die twice and choose which torment to use from the die rolls. If both of the torment dies are the same, you may choose any torment which you could possibly roll with your current torment die. For example, if you current torment die is a d6, you may not choose a torment from the table with where the value in the torment die result column is greater than 6.
+When you roll multiple torment dice, you can choose to group the torment die rolls in any combination. You then sum the results of the torment die rolls in each group to determine the torment according to the Torment table. Any torment die rolls that are not not grouped with another roll are treated as an individual roll on the Torment table. Treat any group with a sum greater than 10 as a 10. 
 
-Your torment die changes when you reach certain levels in this class. The die becomes a d6 at 5th level, a d8 at 9th level, a d10 at 13th level, and a d12 at 17th level. 
+You regain all of your expended torment dice when you finish a long rest.
 
 **Torment Table**
 
 | Torment Die Result | Torment |
 |:---:|---|
-| 1 | The target suffers additional damage of a type of your choice equal to one roll of your torment die. The chosen damage type cannot be psychic, radiant, or force damage. |
-| 2 | The target suffers a penalty to their next attack roll equal to one roll of your torment die. |
-| 3 |  |
-| 4 | The target's movement speed is reduced by a number equal to 5 times one roll of your torment die, up to half of the target's movement speed. |
-| 5 | The target's armor class is reduced by 2 until the the end of your next turn. |
-| 6 | Roll on the torment table twice using a d4 and a d6. Treat a roll of a 6 as a 1. The target suffers both torments. |
-| 7 |  |
-| 8 |  |
-| 9 |  |
-| 10 |  |
-| 11 | The target must make a Wisdom saving throw against your spell save DC. On a failed save, the target must use their reaction to attack their closest ally, moving up to their movement speed if necessary. If there is no ally within range, the target makes one attack against themself. |
-| 12 | Roll on the torment table three times using a d4, d6, and d8. Treat a roll of a 6 as a 1. The target suffers all three torments. |
+| 1 | The target must roll a d4 and subtract the number rolled from their next attack. |
+| 2 | The target's AC is reduced by 1 until the end of your next turn. |
+| 3 | The target's movement speed is reduced by 10 feet until the end of their next turn. |
+| 4 | The target suffers 1d4 damage of a type of your choice. |
+| 5 | The target must make a wisdom or dexterity saving throw (your choice). On a failed save, the target falls prone. |
+| 6 | The target immediately moves up to 10 feet in a direction of your choice. |
+| 7 | The target suffers 2d4 damage of a type of your choice and must make a strength or constitution saving throw (your choice). On a failed save, the target drops any weapons it is holding. |
+| 8 | The target must make a charisma saving throw. On a failed save, the target is blinded until the end of its next turn. This blindness impairs all forms of sense that allow a creature to perceive the area around it. |
+| 9 | The target must make a constitution saving throw. On a failed save, the target is stunned until the end of its next turn. |
+| 10 | The target suffers 4d4 damage of a type of your choice and must make a wisdom saving throw. On a failed save, the target is feared for one minute. A creature can repeat this saving throw at the end of each of its turns if it cannot see you. A creature that fails this saving throw instantly dies if its challenge rating is less than your druid level divided by 5. |
 
-## Reaper's Scythe
+## Reaper of Nightmares
 *2nd-level Circle of Nightmares Feature*
 
-You can always conjure your weapon as a bonus action without expending a resource. When you conjure it or as a bonus action, you can expend a wild shape to empower it *somehow*. 
-* it deals bonus damage? 
-* you get a spiritual weapon version of the scythe? 
-* the wisdom property isn't baseline? 
+You conjure a nightmarish weapon in the form of scythe. You can conjure and dismiss the scythe as if drawing or sheathing any other weapon. The weapon lasts until you dismiss it, you die, or if you are more than 5 feet from the weapon for longer than 1 minute. The weapon counts quarterstaff; however, it deals slashing damage instead of bludgeoning. Additionally, it can be used as a spellcasting focus for your druid spells.
 
-You can use your bonus action to expend a use of your wild shape to conjure a nightmarish scythe. The conjured weapon persists for a number of hours equal to half of your druid level (rounded down). The weapon disappears if you die or if you are more than 5 feet from the weapon for longer than 1 minute. The weapon has the following properties.
+You can expend a use of your wild shape to empower your scythe after it has been conjured. The scythe's empowerment lasts for 10 minutes. While the scythe is empowered, once per turn, you can roll on the Torment table without expending one of your available torment dice. You can choose to spend additional torment dice when you use this feature.
 
-* It has the statistics of a glaive
-* It is considered magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
-* It can be used as a spellcasting focus for your druid spells.
+Additionally, you can bind your scythe to another magical weapon by performing a special ritual while the weapon and your scythe are within 5 feet of you. You perform the ritual over the course of 1 hour, which can be done during a short rest. You can’t affect an artifact or a sentient weapon in this way. When the ritual completes, the weapon is bound to your scythe. While the weapon is bound to your scythe, the weapon is absorbed into your scythe and the scythe gains its magical properties. 
 
-Additionally, can bind your scythe to another magical weapon by performing a special ritual while the weapon and your scythe are within 5 feet of you. You perform the ritual over the course of 1 hour, which can be done during a short rest. You can’t affect an artifact or a sentient weapon in this way. When the ritual completes, the weapon is bound to your scythe. While the weapon is bound to your scythe, the weapon is absorbed into your scythe and the scythe gains its magical properties. 
-
-The bond between your sycthe and the weapon breaks if you die, perform the 1-hour ritual on a different weapon, or use a another 1-hour ritual. The weapon appears at your feet when the bond breaks.
+The bond between your sycthe and the weapon breaks if you die, perform the 1-hour ritual on a different weapon, or use a another 1-hour ritual. The bound weapon appears at your feet when the bond breaks.
