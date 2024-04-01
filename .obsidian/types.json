@@ -1,0 +1,24 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Age": "text",
+    "Session Date": "date",
+    "Character Sheet": "text",
+    "Home": "text",
+    "Characters": "multitext",
+    "Sex": "text",
+    "Pronunciation": "text",
+    "Orientation": "text",
+    "Groups": "multitext",
+    "Gender": "text",
+    "Race": "text",
+    "Location": "text",
+    "Languages": "multitext",
+    "Alignment": "text",
+    "Religion": "text",
+    "Condition": "text",
+    "Session Number": "number"
+  }
+}
