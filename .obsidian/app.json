@@ -10,5 +10,5 @@
   "propertiesInDocument": "source",
   "autoPairMarkdown": false,
   "autoPairBrackets": false,
-  "showInlineTitle": true
+  "showInlineTitle": false
 }

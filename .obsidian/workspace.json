@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e18471e80c6b3ef6",
+        "id": "c8f616b19f6fdd5d",
         "type": "tabs",
         "children": [
           {
-            "id": "b3e9d07551ba2eee",
+            "id": "6560b7390ef9a00d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encounters/Home Security.md",
-                "mode": "source",
-                "source": false
+                "file": "Spells/Urgent Plea.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "`=file.name`",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 337.5
   },
   "right": {
     "id": "ea36d144b5d3e641",
@@ -78,6 +78,7 @@
       {
         "id": "16cacc2e729b0431",
         "type": "tabs",
+        "dimension": 61.92528735632183,
         "children": [
           {
             "id": "4f336e1d95bfa3ff",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/Home Security.md",
+                "file": "Spells/Urgent Plea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,9 +103,56 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/Home Security.md",
+                "file": "Spells/Urgent Plea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fa83ac1dfefd43d3",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Spells/Urgent Plea.md"
+              }
+            }
+          },
+          {
+            "id": "ba12a1cf7ed29505",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Spells/Urgent Plea.md"
+              }
+            }
+          },
+          {
+            "id": "9610173697a80238",
+            "type": "leaf",
+            "state": {
+              "type": "help-mate",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "ef78457b0c2f4661",
+        "type": "tabs",
+        "dimension": 38.07471264367816,
+        "children": [
+          {
+            "id": "1272673294691a92",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -120,71 +168,46 @@
             }
           },
           {
-            "id": "ba12a1cf7ed29505",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Encounters/Home Security.md"
-              }
-            }
-          },
-          {
-            "id": "1272673294691a92",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              }
-            }
-          },
-          {
             "id": "bad02cfeafcb490b",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
-          },
-          {
-            "id": "9610173697a80238",
-            "type": "leaf",
-            "state": {
-              "type": "help-mate",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 612.5,
-    "collapsed": true
+    "width": 554.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "helpmate:HelpMate": true,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
+      "canvas:Create new canvas": true,
       "command-palette:Open command palette": true,
-      "obsidian-5e-statblocks:Open Creature Pane": true,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "helpmate:HelpMate": true,
       "templater-obsidian:Templater": true
     }
   },
-  "active": "b3e9d07551ba2eee",
+  "active": "6560b7390ef9a00d",
   "lastOpenFiles": [
+    "z_assets/templates/scripts",
+    "Spells/Urgent Plea.md",
+    "z_assets/templates/subclass/warlock.md",
+    "z_assets/templates/spell.md",
+    "Home Page.md",
+    "Untitled.md",
+    "Spells/Seed of Life.md",
+    "Encounters/Home Security.md",
     "Items/False Strike Charm.md",
     "Races/Reclaimed Tiefling.md",
     "Races/Half-Giant.md",
-    "z_assets/templates/spell.md",
     "z_assets/templates/subclass/wizard.md",
     "z_assets/templates/subclass/barbarian.md",
-    "z_assets/templates/subclass/warlock.md",
     "z_assets/templates/subclass/sorcerer.md",
     "z_assets/templates/subclass/artificer.md",
     "z_assets/templates/subclass/rogue.md",
@@ -196,16 +219,10 @@
     "z_assets/templates/subclass/druid.md",
     "z_assets/templates/subclass/bard.md",
     "Subclasses/Barbarian/Path of Wonder.md",
-    "Home Page.md",
     "z_assets/templates/subclass",
     "0WIP/College of Impulse.md",
     "0WIP/Circle of Balance.md",
-    "0WIP/Osteomancy.md",
-    "0WIP/Way of the Flowing River.md",
-    "0WIP/Way of the Flowing River (Revised 2).md",
-    "0WIP/Way of the Flowing River (Revised).md",
     "0WIP/CelticKnot.png",
-    "Spells/Seed of Life.md",
     "Encounters/~$OCO Write your First Encounter Workbook Spring 2021.docx",
     "z_assets/scripts",
     "z_assets/templates",
