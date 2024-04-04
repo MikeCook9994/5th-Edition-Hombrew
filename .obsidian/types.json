@@ -19,6 +19,8 @@
     "Alignment": "text",
     "Religion": "text",
     "Condition": "text",
-    "Session Number": "number"
+    "Session Number": "number",
+    "status": "text",
+    "classes": "multitext"
   }
 }
