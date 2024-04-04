@@ -1,4 +1,9 @@
-*/**/*.docx
-*/**/*.indd
-*/**/*.xlsx
-*/**/*.pdf
+# exclude plugin configuration
+.obsidian/plugins
+
+# exclude workspace cache
+.obsidian/workspace*.json
+
+# exclude OS settings and caches
+.trash/
+.DS_Store

@@ -1,0 +1,14 @@
+{
+  "accentColor": "",
+  "baseFontSize": 24,
+  "nativeMenus": true,
+  "translucency": false,
+  "cssTheme": "ITS Theme",
+  "enabledCssSnippets": [
+    "Encoded Fonts",
+    "Encoded Icons",
+    "supercharged-links-gen"
+  ],
+  "theme": "system",
+  "showViewHeader": true
+}
