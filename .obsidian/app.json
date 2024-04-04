@@ -1,0 +1,14 @@
+{
+  "attachmentFolderPath": "z_assets/attachments",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "livePreview": true,
+  "showUnsupportedFiles": true,
+  "newFileLocation": "root",
+  "newFileFolderPath": "",
+  "readableLineLength": false,
+  "propertiesInDocument": "source",
+  "autoPairMarkdown": false,
+  "autoPairBrackets": false,
+  "showInlineTitle": true
+}
