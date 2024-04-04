@@ -19,29 +19,12 @@ Once you gain access to one of these spells, you always have it prepared, and it
 | 7th | Evard's Black Tentacles, Phantasmal Killer | 
 | 9th | Dream, Negative Energy Flood |
 
-## Nightmare's Torment
+## Reaper's Mark
 *2nd-level Circle of Nightmares Feature*
 
-You can exploit the interconnectedness of all natural things to wound not just the bodies of your enemies, but their psyches as well. Your natural capability to languish your foes with nightmarish torments is represented by your Torment Dice, each of which are a d4. You have a number of these dice equal to two times your proficiency Bonus. On your turn, when you deal damage to a creature or a creature fails a saving throw forced by a spell you cast, you can choose to expend torment dice to roll on the Torment Table below. You describe how the torment manifests in the mind of the target. You can expend up to 2 torment dice on your turn. This increases to 3 when you reach level 10 in the druid class.
+You can exploit the interconnectedness of all natural things to wound not just the bodies of your enemies, but their psyches as well. Once on your turn you can mark a creature when you attack it or force it to make a saving throw. 
 
-When you roll multiple torment dice, you can choose to group the torment die rolls in any combination. You then sum the results of the torment die rolls in each group to determine the torment according to the Torment table. Any torment die rolls that are not not grouped with another roll are treated as an individual roll on the Torment table. Treat any group with a sum greater than 10 as a 10. 
-
-You regain all of your expended torment dice when you finish a long rest.
-
-**Torment Table**
-
-| Torment Die Result | Torment |
-|:---:|---|
-| 1 | The target must roll a d4 and subtract the number rolled from their next attack. |
-| 2 | The target's AC is reduced by 1 until the end of your next turn. |
-| 3 | The target's movement speed is reduced by 10 feet until the end of their next turn. |
-| 4 | The target suffers 1d4 damage of a type of your choice. |
-| 5 | The target must make a wisdom or dexterity saving throw (your choice). On a failed save, the target falls prone. |
-| 6 | The target immediately moves up to 10 feet in a direction of your choice. |
-| 7 | The target suffers 2d4 damage of a type of your choice and must make a strength or constitution saving throw (your choice). On a failed save, the target drops any weapons it is holding. |
-| 8 | The target must make a charisma saving throw. On a failed save, the target is blinded until the end of its next turn. This blindness impairs all forms of sense that allow a creature to perceive the area around it. |
-| 9 | The target must make a constitution saving throw. On a failed save, the target is stunned until the end of its next turn. |
-| 10 | The target suffers 4d4 damage of a type of your choice and must make a wisdom saving throw. On a failed save, the target is feared for one minute. A creature can repeat this saving throw at the end of each of its turns if it cannot see you. A creature that fails this saving throw instantly dies if its challenge rating is less than your druid level divided by 5. |
+When you mark a creature
 
 ## Reaper of Nightmares
 *2nd-level Circle of Nightmares Feature*
