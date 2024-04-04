@@ -1,8 +1,9 @@
-# exclude plugin configuration
-.obsidian/plugins
+# exclude plugins
+.obsidian/plugins/**/*
 
-# exclude workspace cache
-.obsidian/workspace*.json
+# include plugin configuration
+!.obsidian/plugins/**/
+!.obsidian/plugins/**/data.json
 
 # exclude OS settings and caches
 .trash/

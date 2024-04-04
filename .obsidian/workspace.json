@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "0aa5ee5215d009a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e18471e80c6b3ef6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3e9d07551ba2eee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Encounters/Home Security.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "062707d6f4fce5e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "16eab530fe5b4013",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48640ba98b7375ee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b8810828d7de116e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "`=file.name`",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "328e9712cd5baace",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ea36d144b5d3e641",
+    "type": "split",
+    "children": [
+      {
+        "id": "16cacc2e729b0431",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f336e1d95bfa3ff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Encounters/Home Security.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c0ac2ead5381e30e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Encounters/Home Security.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e300a40581ca75d8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ba12a1cf7ed29505",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Encounters/Home Security.md"
+              }
+            }
+          },
+          {
+            "id": "1272673294691a92",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "bad02cfeafcb490b",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "9610173697a80238",
+            "type": "leaf",
+            "state": {
+              "type": "help-mate",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 612.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "helpmate:HelpMate": true,
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": true,
+      "obsidian-5e-statblocks:Open Creature Pane": true,
+      "templater-obsidian:Templater": true
+    }
+  },
+  "active": "b3e9d07551ba2eee",
+  "lastOpenFiles": [
+    "Items/False Strike Charm.md",
+    "Races/Reclaimed Tiefling.md",
+    "Races/Half-Giant.md",
+    "z_assets/templates/spell.md",
+    "z_assets/templates/subclass/wizard.md",
+    "z_assets/templates/subclass/barbarian.md",
+    "z_assets/templates/subclass/warlock.md",
+    "z_assets/templates/subclass/sorcerer.md",
+    "z_assets/templates/subclass/artificer.md",
+    "z_assets/templates/subclass/rogue.md",
+    "z_assets/templates/subclass/ranger.md",
+    "z_assets/templates/subclass/paladin.md",
+    "z_assets/templates/subclass/cleric.md",
+    "z_assets/templates/subclass/fighter.md",
+    "z_assets/templates/subclass/monk.md",
+    "z_assets/templates/subclass/druid.md",
+    "z_assets/templates/subclass/bard.md",
+    "Subclasses/Barbarian/Path of Wonder.md",
+    "Home Page.md",
+    "z_assets/templates/subclass",
+    "0WIP/College of Impulse.md",
+    "0WIP/Circle of Balance.md",
+    "0WIP/Osteomancy.md",
+    "0WIP/Way of the Flowing River.md",
+    "0WIP/Way of the Flowing River (Revised 2).md",
+    "0WIP/Way of the Flowing River (Revised).md",
+    "0WIP/CelticKnot.png",
+    "Spells/Seed of Life.md",
+    "Encounters/~$OCO Write your First Encounter Workbook Spring 2021.docx",
+    "z_assets/scripts",
+    "z_assets/templates",
+    "z_assets/attachments",
+    "z_assets",
+    "Subclasses/Warlock/WyrmPatronSpells.xlsx",
+    "Subclasses/Warlock/warlock draconic options.docx",
+    "Subclasses/Warlock/Gem Dragons.docx",
+    "Subclasses/Sorcerer"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "acknowledgedWebUse": true,
+  "includeObsidianHelp": true,
+  "obsidianHelpUrl": "https://help.obsidian.md",
+  "includeObsidianDevHelp": false,
+  "obsidianDevHelpUrl": "https://docs.obsidian.md/Home",
+  "includeHelpMateHelp": false,
+  "userResources": "ITS Theme | https://publish.obsidian.md/slrvb-docs/ITS+Theme/ITS+Theme\nObsidian TTRPG Tutorials | https://obsidianttrpgtutorials.com/Obsidian+TTRPG+Tutorials/Getting+Started/Getting+Started",
+  "forceIframe": false
+}
