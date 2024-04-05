@@ -10,7 +10,6 @@
 
 By introducing a small level of complexity via bookkeeping and a table lookup, which is only ever consulted during level up (something commonly automated by technology-based character managers), player choice is enhanced by giving them decisions to make about their character every level regardless of their class/subclass. Additionally, I believe it better reflects skill progression from a roleplay perspective by enabling players to progress skills they are using commonly and thus likely improving in and even provides a framework for training new proficiencies.
 
-
 ### Skill Points
 
 This system is designed to be almost identical in power (e.g., the sum of skill bonuses should be nearly equivalent between the vanilla system and this one). As opposed to simply applying your general proficiency bonus when making a skill check using a skill you are proficient in, you have a distinct bonus for each skill you have chosen to be proficient in. Points are assigned to each skill from a pool of available skill points. The number of skill points available to a character is given by the following formula:
@@ -42,7 +41,6 @@ Or, if you would prefer not to utilize a formula, a table detailing the total nu
 | 17 | 38 | 42 | 46 | 51 | 55 | 59 | 63 | 68 | 72 | 76 | 80 | 85 | 89 | 93 | 97 | 102 | 106 |
 | 18 | 40 | 45 | 49 | 54 | 58 | 63 | 67 | 72 | 76 | 81 | 85 | 90 | 94 | 99 | 103 | 108 | 112 |
 
-
 A character’s base proficiencies always provide the number of skill points defined by the function/table. Additional skill points can be awarded just like you could do with the old system if you chose to. Acquiring a new proficiency after level 1 (e.g., by taking the skilled feat), will award skill points retroactively.
 
 ### Training
@@ -50,7 +48,6 @@ A character’s base proficiencies always provide the number of skill points def
 Starting at level 5 and whenever your proficiency bonus increases, a character can choose to start training a skill. A character can be training at most one skill at a time and that skill must be one that was available for them to choose at level 1 or a skill otherwise approved by the DM. Training a skill allows the character to allocate skill points into that skill; however, they are not considered proficient in that skill for the purposes of determining how many skill points they have available to the character.
 
 A character training a skill becomes proficient in that skill when they have assigned skill points equal to their proficiency bonus when they started training the skill. For example, if a character started training a skill at level 5, they become proficient in the skill once they have assigned 3 skill points into it, even if they don’t allocate the third skill point until level 9 when their proficiency bonus has increased to 4.
-
 
 ### Assigning Skill Points
 
@@ -61,7 +58,6 @@ Assigning Skills points is handled by a set of rules. The number of skill points
 3. Once a skill point is assigned it cannot be reallocated.
 4. A character can allocate at most twice their proficiency bonus (given by their level) into a skill.
 1. Expertise in a skill (rogues, bards) is handled by adding your proficiency bonus in addition to the skill bonus. A feature that says you add “twice your proficiency bonus” to a skill check follows this same rule of simply adding your proficiency bonus once to the skill bonus.
-
 
 ## Benefits
 

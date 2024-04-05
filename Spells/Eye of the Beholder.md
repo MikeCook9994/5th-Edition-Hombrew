@@ -1,14 +1,22 @@
-# Eye of the Beholder
+---
+type: spell
+classes:
+- Wizard
+- Sorcerer
+- Warlock
+- Bard
+level: 9
+school: Transmutation  
+status: wip
+tags:
+---
+# `=this.file.name`
+*`=join(list(this.level, choice(this.level = 1, "st", choice(this.level = 2, "nd", choice(this.level = 3, "rd", "th")))), "")`-level `=this.school`*
 
-*9th-level Transmutation*
-
-**Casting Time.** 1 bonus action
-
-**Range.** Self
-
-**Components.** V, S, M (a preserved eyeball from a beholder)
-
-**Duration.** Concentration, up to 1 Minute
+**Casting Time:** 1 bonus action
+**Range:** Self
+**Components:** V, S, M (a preserved eyeball from a beholder)
+**Duration:** Concentration, up to 1 Minute
 
 Your mind expands and becomes enlightened to the mysterious magics of the far realm. You gain the following benefits until the spell ends:
 
@@ -35,5 +43,3 @@ Your mind expands and becomes enlightened to the mysterious magics of the far re
 **Antimagic Cone.** Your eyes project a 30-foot cone of disruptive energy that inhibits all magic according to the rules of the *antimagic field* spell. The cone faces whichever direction you are facing. At the start of your turn and when you cast this spell, you can decide whether the antimagic effect is active active or not.
 
 **Levitate.** You immediately ascend 5 feet into the air and gain a fly speed of 30 feet.
-
-Spell Lists: Wizard, Sorcerer, Warlock, Bard

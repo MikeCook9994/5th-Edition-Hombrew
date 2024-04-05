@@ -6,6 +6,8 @@
 
 ## Enhancements
 
+![[CelticKnot.png]]
+
 ### 1. Awakening
 *Prerequisite: 15 Pact Boon Enhancements*
 

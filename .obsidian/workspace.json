@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c8f616b19f6fdd5d",
+        "id": "a1370b990b9a57a5",
         "type": "tabs",
         "children": [
           {
-            "id": "6560b7390ef9a00d",
+            "id": "a9e0d7288536696b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spells/Urgent Plea.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spells/Urgent Plea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spells/Urgent Plea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,9 +108,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Spells/Urgent Plea.md"
-              }
+              "state": {}
             }
           },
           {
@@ -124,9 +116,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Spells/Urgent Plea.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 554.5
+    "width": 554.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,44 +184,44 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "6560b7390ef9a00d",
+  "active": "a9e0d7288536696b",
   "lastOpenFiles": [
-    "z_assets/templates/scripts",
-    "Spells/Urgent Plea.md",
-    "z_assets/templates/subclass/warlock.md",
-    "z_assets/templates/spell.md",
-    "Home Page.md",
-    "Untitled.md",
-    "Spells/Seed of Life.md",
+    "z_assets/templates/subclass/wizard.md",
+    "Subclasses/Fighter/Spell Breaker.md",
+    "Subclasses/Wizard/Arcane Brawler.md",
+    "z_assets/templates/item.md",
+    "z_assets/templates/race.md",
+    "z_assets/templates/subclass/fighter.md",
+    "Subclasses/Sorcerer/Elemental Soul.md",
+    "z_assets/templates/subclass/sorcerer.md",
+    "Subclasses/Wizard",
+    "z_assets/scripts",
+    "z_assets/Untitled.md",
+    "0WIP/College of Impulse.md",
+    "Items/Colonel's Command.md",
+    "z_assets/attachments/CelticKnot.png",
+    "z_assets/attachments",
+    "Rules/Revised Skill Points.md",
     "Encounters/Home Security.md",
     "Items/False Strike Charm.md",
     "Races/Reclaimed Tiefling.md",
-    "Races/Half-Giant.md",
-    "z_assets/templates/subclass/wizard.md",
-    "z_assets/templates/subclass/barbarian.md",
-    "z_assets/templates/subclass/sorcerer.md",
+    "z_assets/templates/spell.md",
     "z_assets/templates/subclass/artificer.md",
-    "z_assets/templates/subclass/rogue.md",
-    "z_assets/templates/subclass/ranger.md",
-    "z_assets/templates/subclass/paladin.md",
-    "z_assets/templates/subclass/cleric.md",
-    "z_assets/templates/subclass/fighter.md",
-    "z_assets/templates/subclass/monk.md",
-    "z_assets/templates/subclass/druid.md",
-    "z_assets/templates/subclass/bard.md",
-    "Subclasses/Barbarian/Path of Wonder.md",
+    "Races/Half-Giant.md",
+    "Spells/Eye of the Beholder.md",
+    "Spells/Seed of Life.md",
+    "Spells/Under The Sun.md",
+    "Spells/Urgent Plea.md",
+    "Spells/Chrysalis.md",
+    "Spells/Big Bang.md",
+    "z_assets/templates/scripts",
+    "z_assets/templates/subclass/warlock.md",
+    "Home Page.md",
     "z_assets/templates/subclass",
-    "0WIP/College of Impulse.md",
-    "0WIP/Circle of Balance.md",
-    "0WIP/CelticKnot.png",
     "Encounters/~$OCO Write your First Encounter Workbook Spring 2021.docx",
     "z_assets/scripts",
     "z_assets/templates",
     "z_assets/attachments",
-    "z_assets",
-    "Subclasses/Warlock/WyrmPatronSpells.xlsx",
-    "Subclasses/Warlock/warlock draconic options.docx",
-    "Subclasses/Warlock/Gem Dragons.docx",
-    "Subclasses/Sorcerer"
+    "z_assets"
   ]
 }

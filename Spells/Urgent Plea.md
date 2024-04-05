@@ -3,7 +3,6 @@ type: spell
 classes:
   - cleric
   - paladin
-  - druid
 level: 3
 school: Evocation
 status: complete
