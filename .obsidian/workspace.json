@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a1370b990b9a57a5",
+        "id": "7e1808543a21bb9f",
         "type": "tabs",
         "children": [
           {
-            "id": "a9e0d7288536696b",
+            "id": "253f2395c62469f5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,8 +44,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "Feature*",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -184,15 +184,26 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "a9e0d7288536696b",
+  "active": "253f2395c62469f5",
   "lastOpenFiles": [
-    "z_assets/templates/subclass/wizard.md",
-    "Subclasses/Fighter/Spell Breaker.md",
+    "Subclasses/Warlock/~$WyrmPatronSpells.xlsx",
+    "Subclasses/Warlock/~$rlock draconic options.docx",
+    "Subclasses/Warlock/~$m Dragons.docx",
     "Subclasses/Wizard/Arcane Brawler.md",
+    "Subclasses/Sorcerer/Vampiric Bloodline.md",
+    "Subclasses/Sorcerer/Elemental Soul.md",
+    "Subclasses/Fighter/Spell Breaker.md",
+    "Subclasses/Fighter/Arcane Martialist.md",
+    "Subclasses/Druid/Circle Of Nightmares.md",
+    "Subclasses/Druid/Circle of Dreams Optional.md",
+    "Subclasses/Cleric/Leisure Domain.md",
+    "Subclasses/Barbarian/Path of Wonder.md",
+    "z_assets/templates/subclass/cleric.md",
+    "z_assets/templates/subclass/barbarian.md",
+    "z_assets/templates/subclass/wizard.md",
     "z_assets/templates/item.md",
     "z_assets/templates/race.md",
     "z_assets/templates/subclass/fighter.md",
-    "Subclasses/Sorcerer/Elemental Soul.md",
     "z_assets/templates/subclass/sorcerer.md",
     "Subclasses/Wizard",
     "z_assets/scripts",
@@ -207,21 +218,10 @@
     "Races/Reclaimed Tiefling.md",
     "z_assets/templates/spell.md",
     "z_assets/templates/subclass/artificer.md",
-    "Races/Half-Giant.md",
-    "Spells/Eye of the Beholder.md",
-    "Spells/Seed of Life.md",
-    "Spells/Under The Sun.md",
-    "Spells/Urgent Plea.md",
-    "Spells/Chrysalis.md",
-    "Spells/Big Bang.md",
     "z_assets/templates/scripts",
-    "z_assets/templates/subclass/warlock.md",
-    "Home Page.md",
     "z_assets/templates/subclass",
     "Encounters/~$OCO Write your First Encounter Workbook Spring 2021.docx",
     "z_assets/scripts",
-    "z_assets/templates",
-    "z_assets/attachments",
-    "z_assets"
+    "z_assets/templates"
   ]
 }

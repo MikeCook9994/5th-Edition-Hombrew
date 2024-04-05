@@ -1,8 +1,13 @@
-# Path of Wonder
+---
+type: subclass 
+class: barbarian
+status: complete
+tags: []
+---
+# `=this.file.name`
 
 ## Wondrous Vitality
-
-*3rd-Level Path of Wonder Feature*
+*3rd-Level `=this.file.name` feature*
 
 Your intrinsic bond with the weave has given you the ability to exchange a fraction of your life essence to manifest arcane effects into the world.
 
@@ -14,7 +19,7 @@ As you gain levels in this class, you can expend additional barbarian hit dice t
 
 You prepare a number of barbarian spells that are available to you to cast, choosing from the sorcerer spell list. When you do so, choose a number of barbarian spells equal to your Constitution modifier + one third of your barabarian level, rounded up (minimum of one spell). The spell's level must not be higher than the maximum spell slot level you can create.
 
-For example, if you are a 8th level path of wonder barbarian, you can expend up to 2 hit dice to create a spell slot equal to the number of hit dice expended. If you have a constituation of 16, your list of prepared spells can include up to 6 spells spells of 1st-level or 2nd-level in any combination. Casting the spell doesn't remove it from your list of prepared spells.
+For example, if you are a 8th level `=this.file.name` barbarian, you can expend up to 2 hit dice to create a spell slot equal to the number of hit dice expended. If you have a constituation of 16, your list of prepared spells can include up to 6 spells spells of 1st-level or 2nd-level in any combination. Casting the spell doesn't remove it from your list of prepared spells.
 
 You can change your list of prepared spells when you finish a long rest.
 
@@ -35,34 +40,29 @@ You cannot ritually cast your barbarian spells.
 Your own body can count as a spellcasting focus for your barbarian spells.
 
 ## Cast and Smash
-
-*3rd-Level Path of Wonder Feature*
+*3rd-Level `=this.file.name` feature*
 
 When you cast a barbarian spell as an action while you are raging, you may make one melee weapon attack as a bonus action.
 
 ## Unnatural Recovery
-
-*3rd-Level Path of Wonder Feature*
+*3rd-Level `=this.file.name` feature*
 
 You regain all of your barbarian hit dice when you complete a long rest.
 
 ## Arcane Recklessness
-
-*6th-Level Path of Wonder Feature*
+*6th-Level `=this.file.name` feature*
 
 Attacking recklessly now additionally grants you advantage on spell attack rolls you make when casting your barbarian spells.
 
 Additionally, being within 5 feet of a creature doesn't impose disadvantage on your ranged spell attack rolls.
 
 ## Forceful Blows
-
-*10th-Level Path of Wonder Feature*
+*10th-Level `=this.file.name` feature*
 
 When you hit a creature with a melee weapon attack, you can deal additional force damage to the target equal to the number of temporary hit points you currently have from your Wondrous Vitality feature. When you use this feature you lose your temporary hit points.
 
 ## Spell Sense
-
-*14th-Level Path of Wonder Feature*
+*14th-Level `=this.file.name` feature*
 
 Your intrinsic familiarty with the arcane has made you adept at resisting effects beyond those that you can see. You now have advantage on all Wisdom, Charisma, and Intellignce saving throws caused by spells or other magical effects. 
 

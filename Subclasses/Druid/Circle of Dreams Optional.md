@@ -1,15 +1,21 @@
-# Circle of Dreams Optional Features
+---
+type: optional subclass 
+class: fighter
+status: rewrite
+tags: []
+---
+# `=this.file.name` Features
 
-This section offers additional features that you gain as a circle of dreams druid. 
+This section offers additional features that you gain as a `=this.file.name` druid. 
 
 ## Circle Spells
-*2nd-level Circle of Dreams Feature*
+*2nd-level `=this.file.name` feature*
 
-Your circle grants you access to some spells to help you better guide the those you sheppard, as shown on the Circle of Dreams Spells table.
+Your circle grants you access to some spells to help you better guide the those you sheppard, as shown on the `=this.file.name` Spells table.
 
 Once you gain access to one of these spells, you always have it prepared, and it doesn’t count against the number of spells you can prepare each day. If you gain access to a spell that doesn’t appear on the druid spell list, the spell is nonetheless a druid spell for you.
 
-**Circle of Dreams Spells**
+**`=this.file.name` Spells**
 
 | Druid Level | Spells |
 |:---:|---|
@@ -20,7 +26,7 @@ Once you gain access to one of these spells, you always have it prepared, and it
 | 9th | Dream, Mass Cure Wounds |
 
 ## Sheppard of Dreams
-*2nd-level Circle of Dreams Feature*
+*2nd-level `=this.file.name` feature*
 
 You conjure a dremy weapon in the form of a sheppard's crook. You can conjure and dismiss the crook as if drawing or sheathing any other weapon. The weapon lasts until you dismiss it, you die, or if you are more than 5 feet from the weapon for longer than 1 minute. The weapon counts quarterstaff and it can be used as a spellcasting focus for your druid spells.
 
