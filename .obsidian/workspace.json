@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7e1808543a21bb9f",
+        "id": "20691cc81b02ed23",
         "type": "tabs",
         "children": [
           {
-            "id": "253f2395c62469f5",
+            "id": "4f077161a0f215a4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -184,20 +184,24 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "253f2395c62469f5",
+  "active": "48640ba98b7375ee",
   "lastOpenFiles": [
     "Subclasses/Warlock/~$WyrmPatronSpells.xlsx",
-    "Subclasses/Warlock/~$rlock draconic options.docx",
+    "Class  Options/Warlock/Warlock Draconic Options.md",
     "Subclasses/Warlock/~$m Dragons.docx",
-    "Subclasses/Wizard/Arcane Brawler.md",
-    "Subclasses/Sorcerer/Vampiric Bloodline.md",
-    "Subclasses/Sorcerer/Elemental Soul.md",
-    "Subclasses/Fighter/Spell Breaker.md",
-    "Subclasses/Fighter/Arcane Martialist.md",
-    "Subclasses/Druid/Circle Of Nightmares.md",
-    "Subclasses/Druid/Circle of Dreams Optional.md",
-    "Subclasses/Cleric/Leisure Domain.md",
-    "Subclasses/Barbarian/Path of Wonder.md",
+    "Subclasses/Warlock/Warlock Draconic Options/Untitled.md",
+    "Subclasses/Warlock/Gems Dragons.doxc.md",
+    "Subclasses/Warlock/Warlock Draconic Options",
+    "Subclasses/Warlock/~$rlock draconic options.docx",
+    "Class  Options/Wizard/Arcane Brawler.md",
+    "Class  Options/Sorcerer/Vampiric Bloodline.md",
+    "Class  Options/Sorcerer/Elemental Soul.md",
+    "Class  Options/Fighter/Spell Breaker.md",
+    "Class  Options/Fighter/Arcane Martialist.md",
+    "Class  Options/Druid/Circle Of Nightmares.md",
+    "Class  Options/Druid/Circle of Dreams Optional.md",
+    "Class  Options/Cleric/Leisure Domain.md",
+    "Class  Options/Barbarian/Path of Wonder.md",
     "z_assets/templates/subclass/cleric.md",
     "z_assets/templates/subclass/barbarian.md",
     "z_assets/templates/subclass/wizard.md",
@@ -205,7 +209,7 @@
     "z_assets/templates/race.md",
     "z_assets/templates/subclass/fighter.md",
     "z_assets/templates/subclass/sorcerer.md",
-    "Subclasses/Wizard",
+    "Class  Options/Wizard",
     "z_assets/scripts",
     "z_assets/Untitled.md",
     "0WIP/College of Impulse.md",
@@ -215,13 +219,8 @@
     "Rules/Revised Skill Points.md",
     "Encounters/Home Security.md",
     "Items/False Strike Charm.md",
-    "Races/Reclaimed Tiefling.md",
-    "z_assets/templates/spell.md",
-    "z_assets/templates/subclass/artificer.md",
     "z_assets/templates/scripts",
     "z_assets/templates/subclass",
-    "Encounters/~$OCO Write your First Encounter Workbook Spring 2021.docx",
-    "z_assets/scripts",
-    "z_assets/templates"
+    "Encounters/~$OCO Write your First Encounter Workbook Spring 2021.docx"
   ]
 }
