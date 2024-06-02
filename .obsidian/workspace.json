@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a441a71a0d921058",
+        "id": "49116b4e0badf379",
         "type": "tabs",
         "children": [
           {
-            "id": "b2d38529c34e74e5",
+            "id": "c92956daf838b096",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,8 +44,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "`=file.name`",
-                "matchingCase": false,
+                "query": "Feature*",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 337.5
   },
   "right": {
     "id": "ea36d144b5d3e641",
@@ -74,6 +74,7 @@
       {
         "id": "16cacc2e729b0431",
         "type": "tabs",
+        "dimension": 61.92528735632183,
         "children": [
           {
             "id": "4f336e1d95bfa3ff",
@@ -103,14 +104,11 @@
             }
           },
           {
-            "id": "e300a40581ca75d8",
+            "id": "fa83ac1dfefd43d3",
             "type": "leaf",
             "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+              "type": "file-properties",
+              "state": {}
             }
           },
           {
@@ -121,6 +119,21 @@
               "state": {}
             }
           },
+          {
+            "id": "9610173697a80238",
+            "type": "leaf",
+            "state": {
+              "type": "help-mate",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "ef78457b0c2f4661",
+        "type": "tabs",
+        "dimension": 38.07471264367816,
+        "children": [
           {
             "id": "1272673294691a92",
             "type": "leaf",
@@ -134,63 +147,61 @@
             }
           },
           {
+            "id": "e300a40581ca75d8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
             "id": "bad02cfeafcb490b",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
-          },
-          {
-            "id": "9610173697a80238",
-            "type": "leaf",
-            "state": {
-              "type": "help-mate",
-              "state": {}
-            }
-          },
-          {
-            "id": "2f4c929d516d77db",
-            "type": "leaf",
-            "state": {
-              "type": "wordy-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 612.5,
+    "width": 554.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "helpmate:HelpMate": true,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
+      "canvas:Create new canvas": true,
       "command-palette:Open command palette": true,
-      "obsidian-5e-statblocks:Open Creature Pane": true,
-      "templater-obsidian:Templater": true,
-      "obsidian-wordy:Wordy view": false
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "helpmate:HelpMate": true,
+      "templater-obsidian:Templater": true
     }
   },
-  "active": "b2d38529c34e74e5",
+  "active": "c92956daf838b096",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
-    "Subclasses/Ranger/Spirit Caller.md",
-    "Class  Options/Ranger/Spirit Caller.md",
-    "Class  Options/Ranger",
+    "Class  Options/Time Wizard.md",
     "Class  Options/Rogue/Untitled.md",
     "Class  Options/Rogue",
-    "z_assets/templates/race.md",
-    "z_assets/templates/item.md",
-    "z_assets/attachments/CelticKnot.png",
-    "Spells/Eye of the Beholder.md",
-    "Class  Options/Wizard/Arcane Brawler.md",
+    "Class  Options/Ranger/Spirit Caller.md",
+    "Class  Options/Ranger",
+    "Home Page.md",
+    "z_assets/templates/subclass/artificer.md",
+    "Subclasses/Warlock/~$WyrmPatronSpells.xlsx",
     "Class  Options/Warlock/Warlock Draconic Options.md",
+    "Subclasses/Warlock/~$m Dragons.docx",
+    "Subclasses/Warlock/Warlock Draconic Options/Untitled.md",
+    "Subclasses/Warlock/Gems Dragons.doxc.md",
+    "Subclasses/Warlock/Warlock Draconic Options",
+    "Subclasses/Warlock/~$rlock draconic options.docx",
+    "Class  Options/Wizard/Arcane Brawler.md",
     "Class  Options/Sorcerer/Vampiric Bloodline.md",
     "Class  Options/Sorcerer/Elemental Soul.md",
     "Class  Options/Fighter/Spell Breaker.md",
@@ -199,23 +210,18 @@
     "Class  Options/Druid/Circle of Dreams Optional.md",
     "Class  Options/Cleric/Leisure Domain.md",
     "Class  Options/Barbarian/Path of Wonder.md",
-    "Class  Options/Wizard",
-    "Class  Options/Warlock",
-    "Class  Options/Sorcerer",
-    "Class  Options/Fighter",
-    "Class  Options/Druid",
-    "Class  Options/Cleric",
-    "Class  Options/Barbarian",
-    "Class  Options",
-    "Subclasses/Rogue/Untitled.md",
+    "z_assets/templates/subclass/cleric.md",
+    "z_assets/templates/subclass/barbarian.md",
     "z_assets/templates/subclass/wizard.md",
-    "z_assets/templates/subclass/warlock.md",
-    "z_assets/templates/subclass/rogue.md",
-    "z_assets/templates/subclass/sorcerer.md",
-    "z_assets/templates/subclass/ranger.md",
-    "z_assets/templates/subclass/paladin.md",
-    "z_assets/templates/subclass/monk.md",
+    "z_assets/templates/item.md",
+    "z_assets/templates/race.md",
     "z_assets/templates/subclass/fighter.md",
-    "0WIP/CelticKnot.png"
+    "z_assets/templates/subclass/sorcerer.md",
+    "Class  Options/Wizard",
+    "z_assets/scripts",
+    "z_assets/Untitled.md",
+    "z_assets/attachments/CelticKnot.png",
+    "z_assets/attachments",
+    "z_assets/templates/scripts"
   ]
 }

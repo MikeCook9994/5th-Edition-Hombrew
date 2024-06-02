@@ -1,5 +1,6 @@
 # exclude plugins
 .obsidian/plugins/**/*
+.obsidian/workspace.json
 
 # include plugin configuration
 !.obsidian/plugins/**/
