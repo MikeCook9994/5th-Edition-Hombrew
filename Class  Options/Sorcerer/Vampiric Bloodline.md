@@ -4,6 +4,7 @@ class: sorcerer
 status: complete
 tags: []
 ---
+
 # `=this.file.name`
 
 The dark powers you command comes from the vampiric curse that courses through your veins. Some may trace the origins of this curse back through their ancestry. Though some may have been left with this mark after a close brush with a vampire themselves. Regardless of how this curse came to you, the more you choose to embrace its dark powers, the more difficult it becomes to resist the whispers that gnaw at the back of your mind.
