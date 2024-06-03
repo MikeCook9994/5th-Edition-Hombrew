@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "49116b4e0badf379",
+        "id": "d053a73641747d0e",
         "type": "tabs",
         "children": [
           {
-            "id": "c92956daf838b096",
+            "id": "fb97b656e896f789",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Class  Options/Ranger/Spirit Caller.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Class  Options/Ranger/Spirit Caller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Class  Options/Ranger/Spirit Caller.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +114,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Class  Options/Ranger/Spirit Caller.md"
+              }
             }
           },
           {
@@ -116,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Class  Options/Ranger/Spirit Caller.md"
+              }
             }
           },
           {
@@ -184,10 +194,11 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "c92956daf838b096",
+  "active": "fb97b656e896f789",
   "lastOpenFiles": [
+    "Class  Options/Wizard/Time Wizard.md",
+    "Class  Options/Wizard/Time Wizard.md",
     "conflict-files-obsidian-git.md",
-    "Class  Options/Time Wizard.md",
     "Class  Options/Rogue/Untitled.md",
     "Class  Options/Rogue",
     "Class  Options/Ranger/Spirit Caller.md",
@@ -219,7 +230,6 @@
     "z_assets/templates/subclass/sorcerer.md",
     "Class  Options/Wizard",
     "z_assets/scripts",
-    "z_assets/Untitled.md",
     "z_assets/attachments/CelticKnot.png",
     "z_assets/attachments",
     "z_assets/templates/scripts"

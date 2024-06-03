@@ -7,7 +7,7 @@ tags:
 
 # `=this.file.name`
 
-You have gained the attention of nature spirits as a devout steward of nature's purpose. They have chosen you as their commander, a spirit caller, in the endless war against the abominations that disrupt nature's harmony. At your command, these spirits will manifest their incredible power to aid you in your battles. Hone your bond with these spirits to prove your worth and motivate greater nature spirits to heed your call. You are the force of nature that your enemies dare not trifle with.
+You have gained the attention of nature spirits as a devout steward of nature's purpose. They have chosen you as their commander, a spirit caller, in the endless war against the abominations that disrupt nature's harmony. At your command, these spirits will manifest their incredible power to aid you in your battles. Hone your bond with these spirits to prove your worth and motivate even more powerful nature spirits to heed your call. You are the force of nature that your enemies dare not trifle with.
 
 ## `=this.file.name` Magic
 *3rd-level `=this.file.name` feature*
@@ -32,16 +32,27 @@ You regain all of your Spirit dice when you finish a short rest. In addition, as
 
 When you reach certain levels in this class, the size of your Spirit dice increases: 5th level (d8), 11th level (d10), and 17th level (d12). Calling the spirits described below use your Spirit dice.
 
-_**Wolf Spirit.**_ When you make 
+_**Lion Spirit.**_ When you make 
+
+_**Bear Spirit.**_ Reaction to being hit by an attack. Add roll to your AC. Lasts until the start of your next turn.
+
+_**Eagle Spirit.**_ Ignore cover when making an attack provided 
 
 _**Serpent Spirit.**_ When you hit a creature with a Ranged or Melee weapon attack, you can call upon the serpent spirit. When you do so, the target of the attack must make a Constitution saving throw. On a failed save, the target suffers 2d4 piercing damage plus poison damage equal to one roll of your Spirit die and is poisoned. On a success, the target suffers half damage and is not poisoned. 
+
+_**Owl Spirit.**_  don't provoke opportunity attacks after making an attack
+
+_**Elephant Spirit.**_ Make melee weapon attacks at range with prone potential. Bonus Action attack if the target fails the save and another die is expended
+
+_**Ape Spirit.**_ Giga hit?
+
 
 ## Worldly Tether
 *7th-level `=this.file.name` feature*
 
 When you would make a Constitution saving throw to maintain concentration on a Conjuration spell that you cast, you can instead make a Wisdom saving throw. Additionally, If you fail, you can use your reaction to expend one of your Spirit dice. When you do so, roll the die and add the number rolled to the saving throw, potentially turning a failure into a success.
 
-## Feature Name
+## Call Greater Nature Spirit
 *11th-level `=this.file.name` feature*
 
 ## Spirit Conduit
