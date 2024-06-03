@@ -1,1 +1,187 @@
-{}
+{
+  "workspaces": {
+    "D&D 5e": {
+      "main": {
+        "id": "0aa5ee5215d009a6",
+        "type": "split",
+        "children": [
+          {
+            "id": "a441a71a0d921058",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b2d38529c34e74e5",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "062707d6f4fce5e3",
+        "type": "split",
+        "children": [
+          {
+            "id": "16eab530fe5b4013",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "48640ba98b7375ee",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "b8810828d7de116e",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "`=file.name`",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "328e9712cd5baace",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "ea36d144b5d3e641",
+        "type": "split",
+        "children": [
+          {
+            "id": "16cacc2e729b0431",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4f336e1d95bfa3ff",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "c0ac2ead5381e30e",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "e300a40581ca75d8",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "ba12a1cf7ed29505",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "1272673294691a92",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  }
+                }
+              },
+              {
+                "id": "bad02cfeafcb490b",
+                "type": "leaf",
+                "state": {
+                  "type": "DICE_ROLLER_VIEW",
+                  "state": {}
+                }
+              },
+              {
+                "id": "9610173697a80238",
+                "type": "leaf",
+                "state": {
+                  "type": "help-mate",
+                  "state": {}
+                }
+              },
+              {
+                "id": "2f4c929d516d77db",
+                "type": "leaf",
+                "state": {
+                  "type": "wordy-view",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 7
+          }
+        ],
+        "direction": "horizontal",
+        "width": 612.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "helpmate:HelpMate": true,
+          "switcher:Open quick switcher": true,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "command-palette:Open command palette": true,
+          "obsidian-5e-statblocks:Open Creature Pane": true,
+          "templater-obsidian:Templater": true,
+          "obsidian-wordy:Wordy view": true,
+          "workspaces:Manage workspace layouts": true
+        }
+      },
+      "active": "b2d38529c34e74e5",
+      "mtime": "2024-06-02T23:24:24-07:00"
+    }
+  },
+  "active": "D&D 5e"
+}
