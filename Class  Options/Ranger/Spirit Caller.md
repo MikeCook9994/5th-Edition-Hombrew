@@ -1,7 +1,7 @@
 ---
 type: subclass
 class: ranger
-status: wip
+status: draft
 tags:
 ---
 
@@ -32,23 +32,30 @@ Once per turn you can call upon a spirit, and you must expend a Spirit die to do
 
 When you reach certain levels in this class, the size of your Spirit die increases: 5th level (d8), 11th level (d10), and 17th level (d12). The spirits you can call are described below.
 
-_**Lion Spirit.**_ When take the Attack action, you can call upon the Lion spirit. When you do so, your next attack is made with advantage and deals additional damage equal to one roll of your Spirit die of whatever damage type is dealt by the weapon that the attack was made with. 
+_**Lion Spirit.**_ When you make a weapon attack on your turn, you can call upon the Lion spirit. When you do so, that attack is made with advantage and deals additional damage equal to one roll of your Spirit die of whatever damage type is dealt by the weapon that the attack was made with. 
 
 _**Bear Spirit.**_ When you are hit by an attack, you can call upon the Bear spirit. When you do so, roll your Spirit die and add the result to your AC, potentially turning a hit in a miss. This bonus to your AC lasts until the start of your next turn.
 
-_**Owl Spirit.**_ As a bonus action, you can call upon the owl spirit. When you do so, you can immediately move a number of feet equal to 5 times one roll of your Spirit die. Additionally, your movement this turn does not provoke opportunity attacks.
+_**Eagle Spirit.**_ When you take the Attack action, you can call upon the Eagle spirit. When you do so, your attacks ignore all effects provided by cover as long as there is a line of sight to the target anywhere within 60 feet of them. Additionally, you can grant a bonus to one attack roll that you make this turn equal to one roll of your Spirit die.
 
 ## Worldly Tether
 *7th-level `=this.file.name` feature*
 
 When you would make a Constitution saving throw to maintain concentration on a Conjuration spell that you cast, you can instead make a Wisdom saving throw. Additionally, If you fail, you can use your reaction to expend one of your Spirit dice. When you do so, roll the die and add the number rolled to the saving throw, potentially turning a failure into a success.
 
-## Call Greater Nature Spirit
+## Call Elusive Nature Spirit
 *7th-level `=this.file.name` feature*
+
+You have gained the attention of some of the more elusive nature spirits. The spirits that you can call upon now are described below.
+
+_**Owl Spirit.**_ As a bonus action, you can call upon the owl spirit. When you do so, you can immediately move a number of feet equal to 5 times one roll of your Spirit die. Additionally, your movement this turn does not provoke opportunity attacks.
 
 _**Serpent Spirit.**_ When you hit a creature with a Ranged or Melee weapon attack, you can call upon the serpent spirit. When you do so, the next attack roll or saving throw that the target makes before the start of your next turn suffers a penalty equal to one roll of your Spirit die and must make a Constitution saving throw. On a failed save, the target is poisoned until the start of your next turn.
 
-_**Eagle Spirit.**_ When you take the Attack action, you can call upon the Eagle spirit. When you do so, your attacks ignore all effects provided to a target by cover as long as a line of sight to the target exists anywhere within 60 feet of the target.
+## Urgent Action
+*11th-level Spirit Caller feature*
+
+The maximum number of spirits that you can call per turn is now two; however, you may not call the same spirit more than once per turn.
 
 ## Call Mighty Nature Spirit
 *11th-level `=this.file.name` feature*
@@ -62,7 +69,6 @@ _**Ape Spirit.**_ When you hit a creature with an attack, you can call upon an a
 ## Spirit Conduit
 *15th-level `=this.file.name` feature*
 
-You can cast Spirit Guardians without expending a spell slot. While maintaining concentration on Spirit Guardians that was cast in this way, you can call upon spirits without expending a Spirit die.
+You have become a conduit that binds the nature spirits to your world. You can cast Spirit Guardians without expending a spell slot. While maintaining concentration on Spirit Guardians that was cast in this way, once per turn you can call upon a spirit without expending a Spirit die, even if you have none remaining.
 
 Once you use this feature, you cannot use it again until you complete a long rest or you expend 3 Spirit dice when you expend a spell slot to cast Spirit Guardians.
-
