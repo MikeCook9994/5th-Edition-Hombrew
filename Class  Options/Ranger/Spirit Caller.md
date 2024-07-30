@@ -48,9 +48,9 @@ When you would make a Constitution saving throw to maintain concentration on a C
 
 You have gained the attention of some of the more elusive nature spirits. The spirits that you can call upon now are described below.
 
-_**Owl Spirit.**_ As a bonus action, you can call upon the owl spirit. When you do so, you can immediately move a number of feet equal to 5 times one roll of your Spirit die. Additionally, your movement this turn does not provoke opportunity attacks.
+_**Owl Spirit.**_ As a bonus action, you can call upon the owl spirit. When you do so, you can immediately move a number of feet equal to 10 + 5 times one roll of your Spirit die. Additionally, your movement this turn does not provoke opportunity attacks.
 
-_**Serpent Spirit.**_ When you hit a creature with a Ranged or Melee weapon attack, you can call upon the serpent spirit. When you do so, the next attack roll or saving throw that the target makes before the start of your next turn suffers a penalty equal to one roll of your Spirit die and must make a Constitution saving throw. On a failed save, the target is poisoned until the start of your next turn.
+_**Serpent Spirit.**_ When you hit a creature with a Ranged or Melee weapon attack, you can call upon the serpent spirit. When you do so, the next attack roll or saving throw that the target makes before the start of your next turn suffers a penalty equal to one roll of your Spirit die and make a Constitution saving throw. On a failed save, the target is poisoned until the start of your next turn.
 
 ## Urgent Action
 *11th-level Spirit Caller feature*

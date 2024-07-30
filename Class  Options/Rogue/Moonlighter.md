@@ -9,7 +9,7 @@ tags: []
 
 Flavor text
 
-## Feature Name
+## Tools of the Trade
 *3rd-level `=this.file.name` feature*
 
 Feature Description

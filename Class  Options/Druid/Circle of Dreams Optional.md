@@ -11,24 +11,24 @@ This section offers additional features that you gain as a `=this.file.name` dru
 ## Circle Spells
 *2nd-level `=this.file.name` feature*
 
-Your circle grants you access to some spells to help you better guide the those you sheppard, as shown on the `=this.file.name` Spells table.
+Your circle grants you access to some spells to help you better guide the those you Shepard, as shown on the `=this.file.name` Spells table.
 
 Once you gain access to one of these spells, you always have it prepared, and it doesn’t count against the number of spells you can prepare each day. If you gain access to a spell that doesn’t appear on the druid spell list, the spell is nonetheless a druid spell for you.
 
 **`=this.file.name` Spells**
 
-| Druid Level | Spells |
-|:---:|---|
-| 2nd | Cure Wounds, Sleep |
-| 3rd | Calm Emotions, Healing Spirit |
-| 5th | Catnap, Summon Fey |
-| 7th | Aura of Life, Grasping Vine |
-| 9th | Dream, Mass Cure Wounds |
+| Druid Level | Spells                        |
+| :---------: | ----------------------------- |
+|     2nd     | Cure Wounds, Sleep            |
+|     3rd     | Calm Emotions, Healing Spirit |
+|     5th     | Catnap, Summon Fey            |
+|     7th     | Aura of Life, Grasping Vine   |
+|     9th     | Dream, Mass Cure Wounds       |
 
 ## Sheppard of Dreams
 *2nd-level `=this.file.name` feature*
 
-You conjure a dremy weapon in the form of a sheppard's crook. You can conjure and dismiss the crook as if drawing or sheathing any other weapon. The weapon lasts until you dismiss it, you die, or if you are more than 5 feet from the weapon for longer than 1 minute. The weapon counts quarterstaff and it can be used as a spellcasting focus for your druid spells.
+You conjure a dreamy weapon in the form of a shepard's crook. You can conjure and dismiss the crook as if drawing or sheathing any other weapon. The weapon lasts until you dismiss it, you die, or if you are more than 5 feet from the weapon for longer than 1 minute. The weapon counts quarterstaff and it can be used as a spellcasting focus for your druid spells.
 
 You can expend a use of your wild shape to empower your crook after it has been conjured. The crooks's empowerment lasts for 10 minutes. While the crook is empowered, you can add your wisdom modifier to any healing a creature receives from your balm of the summer court feature. Additionally, a creature gains a +1 bonus to their AC while they have temporary hit points from your balm of the summer court feature.
 
