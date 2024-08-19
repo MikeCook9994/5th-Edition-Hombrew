@@ -6,7 +6,7 @@ tags: []
 ---
 # `=this.file.name` Features
 
-This section offers additional features that you gain as a `=this.file.name` druid. 
+This section offers additional features that you gain as a Circle of Dreams druid. 
 
 ## Circle Spells
 *2nd-level `=this.file.name` feature*
