@@ -25,11 +25,54 @@ Once you gain access to one of these spells, you always have it prepared, and it
 |     7th     | Evard's Black Tentacles, Phantasmal Killer         |
 |     9th     | Dream, Negative Energy Flood                       |
 
-## Reaper's Torment
+## Reaper's Mark
 *2nd-level `=this.file.name` feature*
 
-* 
-* Mark target's with a bonus action and expending a
+You can mark a creature as a target of your hunt. T---
+type: subclass
+class: warlock
+status: wip
+tags:
+---
+
+# `=this.file.name`
+
+Flavor text
+
+## Expanded Spell List
+
+`=this.file.name` lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
+
+### `=this.file.name` Expanded Spells
+| Spell Level | Spells |
+|:---:|---|
+| 1st | |
+| 2nd | |
+| 3rd | |
+| 4th | |
+| 5th | |
+
+## Feature Name
+*1st-level `=this.file.name` feature*
+
+Feature Description
+
+## Feature Name
+*6th-level `=this.file.name` feature*
+
+Feature Description
+
+## Feature Name
+*10th-level `=this.file.name` feature*
+
+Feature Description
+
+## Feature Name
+*14th-level `=this.file.name` feature*
+
+Feature Description
+
+
 
 ## Nightmare Scythe
 *2nd-level `=this.file.name` feature*
