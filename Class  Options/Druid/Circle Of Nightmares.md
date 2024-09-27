@@ -58,7 +58,12 @@ You can attack with your nightmare scythe twice, instead of once, whenever you t
 ## Manifest Torment
 *10th-level `=this.file.name` feature*
 
-You 
+You can physically manifest your curses to torment your enemies. You can use your action to tear three or more instances of reaper's mark from a single target. When you do so, the target suffers 2d8 psychic damage for each curse you tear from them and must make a wisdom saving throw. On a failed save, the target suffers one of the following effects of your choice.
+
+**Unyielding Darkness.** The target is blinded and cannot benefit from Blindsight, Darkvision, Tremorsense, or Truesight until the end of your next turn.
+**Oppressive Gravity.** The target is restrained until the end of your next turn.
+**Binding Reality.** The target cannot teleport by any means for one minute.
+**Nature's Offensive.** The target becomes vulnerable to one damage type of your choice from the following list until the end of your next turn: acid, cold, fire, lightning, poison.
 
 ## All Things Must End
 *14th-level `=this.file.name` feature*
