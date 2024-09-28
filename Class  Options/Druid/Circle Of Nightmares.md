@@ -1,7 +1,7 @@
 ---
 type: subclass 
 class: druid
-status: wip
+status: draft
 tags: []
 ---
 # `=this.file.name`
@@ -39,7 +39,7 @@ You conjure a nightmarish weapon in the form of scythe. You can conjure and dism
 **Damage on a Hit:** 1d8 Slashing
 **Properties:** Two-Handed
 
-When you cast *shillelagh* on the scythe, you can choose to expend a use of your wild shape to enhance the casting of the *shillelagh* spell. When you do so, the duration of  *shillelagh* increases to 10 minutes and it does not end if you drop the weapon. Additionally, when you hit a creature with an attack or a creature fails a saving throw forced by a spell you cast, you can deal additional damage to target equal to the number of reaper's mark curses applied to them. Whenever you deal this additional damage, you can choose to first curse the target with reaper's mark and you choose its damage type from the following list: acid, cold, fire, lightning, poison, or psychic. 
+When you cast *shillelagh* on the scythe, you can choose to expend a use of your wild shape to enhance the casting of the *shillelagh* spell. When you do so, the duration of  *shillelagh* increases to 10 minutes and it does not end if you drop the weapon. Additionally, when you hit a creature with an attack or a creature fails a saving throw forced by a spell you cast, you can deal additional damage to target equal to the number of reaper's mark curses applied to them. You choose the damage type from the following list: acid, cold, fire, lightning, poison, or psychic. Once per turn when you deal this additional damage, you can choose to first apply reaper's mark to the target. 
 
 Additionally, you can bind your scythe to another magical weapon by performing a special ritual while the weapon and your scythe are within 5 feet of you. You perform the ritual over the course of 1 hour, which can be done during a short rest. You can’t affect an artifact or a sentient weapon in this way. When the ritual completes, the weapon is bound to your scythe. While the weapon is bound to your scythe, the weapon is absorbed into your scythe and the scythe gains its magical properties. If the weapon required attunement to benefit from its magical properties, your number of available attunement slots is reduced by 1 while the weapon is bound to the scythe.
 
@@ -55,10 +55,10 @@ Your curse provides insight into a target's capabilities and deficiencies. When 
 
 You can attack with your nightmare scythe twice, instead of once, whenever you take the Attack action on your turn. 
 
-## Manifest Torment
+## Death or Torment
 *10th-level `=this.file.name` feature*
 
-You can physically manifest your curses to torment your enemies. You can use your action to tear three or more instances of reaper's mark from a single target. When you do so, the target suffers 2d8 psychic damage for each curse you tear from them and must make a wisdom saving throw. On a failed save, the target suffers one of the following effects of your choice.
+You can tear your curses from your enemies to attempt to deal the killing blow. Those that survive will wish they hadn't. You can use your action to remove three or more instances of reaper's mark from a single target. When you do so, the target suffers 2d8 psychic damage for each instance of reaper's mark you removed and must make a wisdom saving throw. On a failed save, the target suffers one of the following effects of your choice.
 
 **Unyielding Darkness.** The target is blinded and cannot benefit from Blindsight, Darkvision, Tremorsense, or Truesight until the end of your next turn.
 **Oppressive Gravity.** The target is restrained until the end of your next turn.
@@ -68,4 +68,4 @@ You can physically manifest your curses to torment your enemies. You can use you
 ## All Things Must End
 *14th-level `=this.file.name` feature*
 
-Your ire symbolizes the deliverance of death. Any attack roll you make against a creature cursed with your reaper's mark is a critical hit on a roll of a 19 or 20 on the d20. While your scythe is under the effects of an empowered *shillelagh* cast and you score a critical hit against a creature, the additional damage you can deal to the creature improves to a number of d4s equal to the number of reaper's mark curses applied to them.
+Your ire symbolizes the deliverance of death. Any attack roll you make against a creature cursed with your reaper's mark is a critical hit on a roll of a 19 or 20 on the d20. Additionally, when you score a critical hit against a creature, you can immediately use your Death or Torment feature, provided the target has at least three instances of reaper's mark applied.
