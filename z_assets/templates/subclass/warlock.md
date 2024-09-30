@@ -5,25 +5,24 @@ status: wip
 tags:
 ---
 
-# `=this.file.name`
+# `=this.file.name` Patron
 
 Flavor text
 
-## Expanded Spell List
+## `=this.file.name` Spells
 
-`=this.file.name` lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
+The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the `=this.file.name` Spells table, you thereafter always have the listed spells prepared.
 
-### `=this.file.name` Expanded Spells
-| Spell Level | Spells |
-|:---:|---|
-| 1st | |
-| 2nd | |
-| 3rd | |
-| 4th | |
-| 5th | |
+### `=this.file.name` Spells
+| Warlock Level | Spells |
+| :-----------: | ------ |
+|       3       |        |
+|       5       |        |
+|       7       |        |
+|       9       |        |
 
 ## Feature Name
-*1st-level `=this.file.name` feature*
+*3rd-level `=this.file.name` feature*
 
 Feature Description
 
