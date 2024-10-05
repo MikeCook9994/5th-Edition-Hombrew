@@ -1,0 +1,5 @@
+mental score: #d8dad1
+mental mods: #d0caca
+
+physical score: #ede6d9
+physical mods: #ded4cc
