@@ -37,6 +37,7 @@ const getStatTableColumn = () => {
 }
 
 const div = document.createElement("div");
+div.class
 div.appendChild(getStatTableColumn());
 div.appendChild(getStatTableColumn());
 div.appendChild(getStatTableColumn());
